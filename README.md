@@ -3,6 +3,7 @@
 </p>
 
 # 🇫🇷 / 🇬🇧  Palks Studio
+
 Créateur d’outils utiles et autonomes. Pensés pour les développeurs, les petites équipes et les projets professionnels.
 
 ---
@@ -39,7 +40,7 @@ Sans extensions, sans scripts, adaptées à tous les environnements.
 - Flask Chatbot 2.0  
 Template de chatbot intelligent prêt pour la production.  
 
-- Documentation Framework FR/EN  
+- Documentation Framework  
 Kit complet pour structurer, protéger et présenter les projets pro.  
 
 - VS Code Formatting Pack  
@@ -51,6 +52,7 @@ Démonstration d’un projet web 100% statique & sans dépendances.
 ---
 
 # 🇬🇧 English version
+
 Creator of practical, autonomous tools — built for developers, small teams, and real-world projects.
 
 Hi, I’m Anthony, a self-taught developer.
@@ -74,7 +76,7 @@ Simple, robust, and fully standalone.
 - Offline intelligent chatbots (Flask / JSON)  
 Run entirely locally, with optional OpenAI support ready out of the box.  
 
-- Professional documentation framework (FR/EN)  
+- Professional documentation framework  
 A complete pack to structure any technical project.  
 
 - Clean and consistent VS Code formatting setups  
@@ -88,8 +90,10 @@ See all repositories below on my profile — every project includes both French 
 
 ## Merci de votre visite — Thank you for visiting
 
-🇫🇷 Si mes outils vous intéressent, si vous souhaitez discuter ou si vous cherchez quelque chose de spécifique, vous pouvez me trouver ici :  
-🇬🇧 If you're interested in my tools, want to chat, or are looking for something specific, you can reach me here:
+🇫🇷 / 🇬🇧 
+Si mes outils vous intéressent, si vous souhaitez discuter ou si vous cherchez quelque chose de spécifique, vous pouvez me trouver ici : 
+
+If you're interested in my tools, want to chat, or are looking for something specific, you can reach me here:
 
 **Official links :**
 
@@ -99,4 +103,3 @@ See all repositories below on my profile — every project includes both French 
 - Itch.io : https://palks-studio.itch.io  
 - Ko-fi : https://ko-fi.com/palksstudio  
 - Discord : https://discord.gg/kzrSyThyZ7
-
