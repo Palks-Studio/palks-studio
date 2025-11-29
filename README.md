@@ -4,7 +4,7 @@
 
 # 🇫🇷 / 🇬🇧  Palks Studio
 
-Créateur d’outils utiles et autonomes. Pensés pour les développeurs, les petites équipes et les projets professionnels.
+Créateur d’outils digitaux utiles et autonomes. Pensés pour les développeurs, les petites équipes et les projets professionnels.
 
 ---
 
@@ -53,7 +53,7 @@ Démonstration d’un projet web 100% statique & sans dépendances.
 
 # 🇬🇧 English version
 
-Creator of practical, autonomous tools — built for developers, small teams, and real-world projects.
+Creator of useful, autonomous digital tools — built for developers, small teams, and real-world projects.
 
 Hi, I’m Anthony, a self-taught developer.
 
