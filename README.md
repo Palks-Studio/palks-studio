@@ -8,7 +8,7 @@ Créateur d’outils digitaux utiles et autonomes. Pensés pour les développeur
 
 ---
 
-## Bonjour, je suis Anthony, développeur autodidacte.
+## Bonjour, je suis Anthony, développeur autodidacte et créateur indépendant.
 
 Suite à un accident de la vie, j’ai dû repenser mon avenir professionnel.
 Pendant ma convalescence, j’ai passé beaucoup de temps à aider des personnes dans la même situation, et c’est là que j’ai redécouvert quelque chose d’essentiel : j’aime créer, organiser et simplifier les choses.
@@ -55,7 +55,7 @@ Démonstration d’un projet web 100% statique & sans dépendances.
 
 Creator of useful, autonomous digital tools — built for developers, small teams, and real-world projects.
 
-Hi, I’m Anthony, a self-taught developer.
+Hi, I’m Anthony, a self-taught developer and independent creator.
 
 After an accident forced me to rethink my career path, I spent months helping others in similar situations. That experience reminded me of something important:  
 I love building, organizing, and simplifying things.
