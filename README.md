@@ -14,7 +14,7 @@ Suite à un accident de la vie, j’ai dû repenser mon avenir professionnel.
 Pendant ma convalescence, j’ai passé beaucoup de temps à aider des personnes dans la même situation, et c’est là que j’ai redécouvert quelque chose d’essentiel : j’aime créer, organiser et simplifier les choses.
 
 En 2025, je me suis plongé dans le code.
-D’abord pour continuer mon projet personnel (un site de bien-être naturel), puis… le code est devenu une vraie passion.
+D’abord pour continuer mon projet personnel (un site de bien-être naturel), puis le code est devenu une vraie passion.
 J’ai appris en construisant, en testant, en cassant, en réparant et en comprenant ce que je faisais.
 
 Aujourd’hui, je conçois des outils et ressources numériques autonomes, fiables et pensés pour durer.
