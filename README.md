@@ -90,8 +90,6 @@ See all repositories below on my profile — every project includes both French 
 
 ## Merci de votre visite — Thank you for visiting
 
-🇫🇷 / 🇬🇧 
-Si mes outils vous intéressent, si vous souhaitez discuter ou si vous cherchez quelque chose de spécifique, vous pouvez me trouver ici :  
 If you're interested in my tools, want to chat, or are looking for something specific, you can reach me here:
 
 **Official links :**  
