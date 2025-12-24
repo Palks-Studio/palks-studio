@@ -24,31 +24,40 @@ Aujourd’hui, je conçois des outils et ressources numériques autonomes, fiabl
 
 ## Ce que je crée chez Palks Studio
 
-- Templates et scripts prêts à l’emploi  
+- Socles de sites statiques professionnels (HTML / CSS)
+Bases durables, maintenables et sans dépendances, pensées pour un usage réel en production.
+
+- Templates et scripts prêts à l’emploi
 Outils simples, robustes et autonomes.
 
-- Chatbots intelligents hors ligne (Flask / JSON)  
-Fonctionnent entièrement en local, avec support OpenAI optionnel prêt à l’emploi. 
+- Chatbots intelligents hors ligne (Flask / JSON)
+Fonctionnent entièrement en local, avec support OpenAI optionnel prêt à l’emploi.
 
-- Packs de documentation professionnelle  
-Framework bilingue FR/EN pour structurer clairement n’importe quel projet.
+- Structures et guides de documentation technique
+Méthodes et modèles pour organiser, expliquer et maintenir des projets propres et lisibles.
 
-- Configurations VS Code propres et cohérentes  
+- Configurations VS Code propres et cohérentes
 Sans extensions, sans scripts, adaptées à tous les environnements.
 
-### Mes projets publics
+---
 
-- Flask Chatbot 2.0  
+## Mes projets publics
+
+- Static Site
+Socle de site statique professionnel en HTML et CSS, sans framework ni CMS.
+Visible ici : https://demo.palks-studio.com
+
+- Flask Chatbot 2.0
 Template de chatbot intelligent prêt pour la production.
 
-- Documentation Framework  
-Kit complet pour structurer, protéger et présenter les projets pro.
+- Framework de documentation
+Framework bilingue FR/EN pour structurer clairement des projets professionnels.
 
-- Pack de Formatage VS Code  
+- Pack de formatage VS Code
 Configuration de formatage claire et minimaliste.
 
-- Client Project anonymisé  
-Démonstration d’un projet web 100% statique & sans dépendances.
+- Client Project (anonymisé)
+Démonstration d’un projet web 100 % statique, sans dépendances.
 
 ---
 
@@ -72,21 +81,40 @@ Today, I design autonomous, reliable digital tools and resources built to last.
 
 ## What I build at Palks Studio
 
-- Ready-to-use templates and scripts  
-Simple, robust, and fully standalone.
+- Professional static website foundations (HTML / CSS)
+Durable, maintainable, dependency-free bases designed for real-world production use.
 
-- Offline intelligent chatbots (Flask / JSON)  
-Run entirely locally, with optional OpenAI support ready out of the box.
+- Ready-to-use templates and scripts
+Simple, robust, and autonomous tools.
 
-- Professional documentation framework  
-A complete pack to structure any technical project.
+- Offline-first intelligent chatbots (Flask / JSON)
+Fully local operation, with optional OpenAI support when needed.
 
-- Clean and consistent VS Code formatting setups  
-No extensions, no scripts, compatible with any environment.
+- Technical documentation structures and guides
+Methods and models to organize, explain, and maintain clean, readable projects.
 
-### Public projects
+- Clean and consistent VS Code configurations
+No extensions, no scripts, designed to work across all environments.
 
-See all repositories below on my profile — every project includes both French and English documentation.
+---
+
+## Public projects
+
+- Static Site
+Professional static website foundation built with HTML and CSS, without frameworks or CMS.
+Visible here: https://demo.palks-studio.com
+
+- Flask Chatbot 2.0
+Intelligent chatbot template ready for production use.
+
+- Documentation Framework
+Bilingual FR/EN framework for structuring professional projects.
+
+- VS Code Formatting Pack
+Clear and minimal formatting configuration.
+
+- Client Project (anonymized)
+Demonstration of a 100% static, dependency-free web project.
 
 ---
 
@@ -98,4 +126,4 @@ If you're interested in my tools, want to chat, or are looking for something spe
 Independent creator of useful, autonomous digital tools.
 
 - https://palks-studio.com  
-- https://github.com/Palks-Studio
+- https://x.com/Palks_Studio
