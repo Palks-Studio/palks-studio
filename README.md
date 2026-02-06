@@ -4,132 +4,191 @@
 
 # 🇫🇷 / 🇬🇧  Palks Studio
 
-Créateur d’outils digitaux utiles et autonomes. Pensés pour les développeurs, les petites équipes et les projets professionnels.   
-Site officiel : https://palks-studio.com
+# Palks Studio
+
+Outils numériques autonomes et systèmes structurés.  
+Pensés pour des projets réels, maintenables dans le temps, sans dépendances inutiles.
+
+Site officiel : [https://palks-studio.com](https://palks-studio.com)
 
 ---
 
-## Bonjour, je suis Anthony, développeur autodidacte et créateur indépendant.
+## À propos
 
-Suite à un accident de la vie, j’ai dû repenser mon avenir professionnel.  
-Pendant ma convalescence, j’ai passé beaucoup de temps à aider des personnes dans la même situation, et c’est là que j’ai redécouvert quelque chose d’essentiel : j’aime créer, organiser et simplifier les choses.
+Bonjour, je suis Anthony, développeur autodidacte et créateur indépendant.
 
-En 2025, je me suis plongé dans le code.  
-D’abord pour continuer mon projet personnel (un site de bien-être naturel), puis le code est devenu une vraie passion.  
-J’ai appris en construisant, en testant, en cassant, en réparant et en comprenant ce que je faisais.
+Je construis des outils et des structures techniques simples, fiables et compréhensibles, destinés aux développeurs, aux petites équipes et aux projets professionnels qui recherchent de la stabilité plutôt que de la complexité.
 
-Aujourd’hui, je conçois des outils et ressources numériques autonomes, fiables et pensés pour durer.
+Mon approche repose sur quelques principes simples :  
 
----
+* simplicité structurelle  
+* autonomie des outils  
+* documentation claire  
+* fonctionnement prévisible  
+* absence de dépendances inutiles
 
-## Ce que je crée chez Palks Studio
-
-- Systèmes d’automatisation métier (facturation, flux internes)  
-Architectures robustes, auditées et pensées pour fonctionner sans dépendance critique.
-
-- Socles de sites statiques professionnels (HTML / CSS)
-Bases durables, maintenables et sans dépendances, pensées pour un usage réel en production.
-
-- Templates et scripts prêts à l’emploi
-Outils simples, robustes et autonomes.
-
-- Chatbots intelligents hors ligne (Flask / JSON)
-Fonctionnent entièrement en local, avec support OpenAI optionnel prêt à l’emploi.
-
-- Structures et guides de documentation technique
-Méthodes et modèles pour organiser, expliquer et maintenir des projets propres et lisibles.
-
-- Configurations VS Code propres et cohérentes
-Sans extensions, sans scripts, adaptées à tous les environnements.
+J’apprends en construisant des projets complets, pensés pour être réellement utilisés et maintenus dans le temps.
 
 ---
 
-## Mes projets publics
+## Ce que je construis chez Palks Studio
 
-- Static Site
+### Automatisation et outils métier
+
+Systèmes d’automatisation (facturation, flux internes, génération de documents) conçus pour fonctionner de manière déterministe et auditable.
+
+### Sites statiques professionnels
+
+Socles HTML / CSS durables, sans framework ni CMS, pensés pour la performance, la lisibilité et la maintenance long terme.
+
+### Templates et outils autonomes
+
+Scripts et bases techniques prêts à l’emploi, simples à comprendre et à adapter.
+
+### Chatbots locaux (Flask / JSON)
+
+Chatbots fonctionnant entièrement en local, avec intégration OpenAI optionnelle.
+
+### Frameworks de documentation
+
+Structures et méthodes pour organiser, expliquer et maintenir des projets techniques propres.
+
+### Configurations de développement
+
+Configurations VS Code minimalistes et cohérentes, sans dépendance externe.
+
+---
+
+## Projets publics
+
+Les dépôts publics représentent des briques indépendantes utilisées dans des projets réels.
+
+### Static Site
+
 Socle de site statique professionnel en HTML et CSS, sans framework ni CMS.
-Visible ici : https://demo.palks-studio.com
+Demo FR : [https://demo.palks-studio.com](https://demo.palks-studio.com)
 
-- Flask Chatbot 2.0
-Template de chatbot intelligent prêt pour la production.
+Demo EN : [https://demo-en.palks-studio.com](https://demo-en.palks-studio.com)
 
-- Framework de documentation
-Framework bilingue FR/EN pour structurer clairement des projets professionnels.
+### Flask Chatbot 2.0
 
-- Pack de formatage VS Code
+Template de chatbot intelligent prêt pour un usage professionnel.
+
+### Documentation Framework
+
+Framework bilingue pour structurer la documentation technique.
+
+### VS Code Formatting Pack
+
 Configuration de formatage claire et minimaliste.
 
-- Client Project (anonymisé)
-Démonstration d’un projet web 100 % statique, sans dépendances.
+### SantéPlusAI 
+
+Exemple de projet web 100 % statique, présenté à des fins de démonstration technique.
+
+[https://santeplusai.fr/](https://santeplusai.fr/)
+
+---
+
+## Philosophie
+
+Les outils publiés ici privilégient la clarté, la stabilité et l’autonomie.
+L’objectif n’est pas d’ajouter de la complexité, mais d’en retirer.
+
 
 ---
 
 # 🇬🇧 English version
 
-Creator of useful, autonomous digital tools — built for developers, small teams, and real-world projects.  
-Official website: https://palks-studio.com
+# Palks Studio
 
-Hi, I’m Anthony, a self-taught developer and independent creator.
+Autonomous digital tools and structured systems.
+Designed for real-world projects, maintainable over time, without unnecessary dependencies.
 
-After an accident forced me to rethink my career path, I spent months helping others in similar situations. That experience reminded me of something important:  
-I love building, organizing, and simplifying things.
+Official website: [https://palks-studio.com](https://palks-studio.com)
 
-In 2025, I started coding seriously.  
-At first to fix and improve my personal project (a natural wellness website), but the more I coded, the more I enjoyed it.  
-I learned by building, breaking, fixing — and understanding.
+---
 
-Today, I design autonomous, reliable digital tools and resources built to last.
+## About
+
+Hello, I’m Anthony, a self-taught developer and independent creator.
+
+I build simple, reliable, and understandable technical tools and structures for developers, small teams, and professional projects seeking stability rather than complexity.
+
+My approach is based on a few core principles:
+
+* structural simplicity
+* tool autonomy
+* clear documentation
+* predictable behavior
+* no unnecessary dependencies
+
+I learn by building complete projects designed to be used and maintained in real conditions.
 
 ---
 
 ## What I build at Palks Studio
 
-- Business automation systems (billing, internal workflows)  
-Robust, auditable architectures designed to run without critical external dependencies.
+### Automation and business tools
 
-- Professional static website foundations (HTML / CSS)
-Durable, maintainable, dependency-free bases designed for real-world production use.
+Automation systems (invoicing, internal workflows, document generation) designed to operate in a deterministic and auditable way.
 
-- Ready-to-use templates and scripts
-Simple, robust, and autonomous tools.
+### Professional static websites
 
-- Offline-first intelligent chatbots (Flask / JSON)
-Fully local operation, with optional OpenAI support when needed.
+Durable HTML / CSS foundations without frameworks or CMS, focused on performance, readability, and long-term maintainability.
 
-- Technical documentation structures and guides
-Methods and models to organize, explain, and maintain clean, readable projects.
+### Templates and autonomous tools
 
-- Clean and consistent VS Code configurations
-No extensions, no scripts, designed to work across all environments.
+Ready-to-use scripts and technical foundations that are easy to understand and adapt.
+
+### Local chatbots (Flask / JSON)
+
+Chatbots running entirely locally, with optional OpenAI integration.
+
+### Documentation frameworks
+
+Structures and methods to organize, explain, and maintain clean and readable technical projects.
+
+### Development configurations
+
+Minimal and consistent VS Code configurations without external dependencies.
 
 ---
 
 ## Public projects
 
-- Static Site
+Public repositories represent independent building blocks used in real-world projects.
+
+### Static Site
+
 Professional static website foundation built with HTML and CSS, without frameworks or CMS.
-Visible here: https://demo.palks-studio.com
 
-- Flask Chatbot 2.0
-Intelligent chatbot template ready for production use.
+Demo EN : [https://demo-en.palks-studio.com](https://demo-en.palks-studio.com)
 
-- Documentation Framework
-Bilingual FR/EN framework for structuring professional projects.
+Demo FR : [https://demo.palks-studio.com](https://demo.palks-studio.com)
 
-- VS Code Formatting Pack
-Clear and minimal formatting configuration.
+### Flask Chatbot 2.0
 
-- Client Project (anonymized)
-Demonstration of a 100% static, dependency-free web project.
+An intelligent chatbot template ready for professional use.
+
+### Documentation Framework
+
+A bilingual FR/EN framework for structuring technical documentation.
+
+### VS Code Formatting Pack
+
+A clear and minimal formatting configuration.
+
+### SantéPlusAI
+
+An example of a fully static web project shared for technical demonstration purposes.
+
+[https://santeplusai.fr/](https://santeplusai.fr/)
 
 ---
 
-## Merci de votre visite — Thank you for visiting
+## Philosophy
 
-If you're interested in my tools, want to chat, or are looking for something specific, you can reach me here:
+The tools published here prioritize clarity, stability, and autonomy.  
+The goal is not to add complexity, but to remove it.
 
-**Palks Studio**  
-Independent creator of useful, autonomous digital tools.
-
-- https://palks-studio.com  
-- https://x.com/Palks_Studio
