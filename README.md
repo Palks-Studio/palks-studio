@@ -123,6 +123,9 @@ L’objectif n’est pas d’ajouter de la complexité, mais d’en retirer.
 
 # Palks Studio
 
+> This repository is a presentation.  
+> It does not contain downloadable source code or production files.
+
 Autonomous digital tools and structured systems.  
 Designed for real-world projects, maintainable over time, without unnecessary dependencies.
 
