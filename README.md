@@ -4,9 +4,7 @@
 
 # 🇫🇷 / 🇬🇧  Palks Studio
 
-# Palks Studio
-
-Outils numériques autonomes et systèmes structurés.  
+# Outils numériques autonomes et systèmes structurés.  
 Pensés pour des projets réels, maintenables dans le temps, sans dépendances inutiles.
 
 Site officiel : [https://palks-studio.com](https://palks-studio.com)
