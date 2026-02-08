@@ -2,12 +2,19 @@
   <img src="docs/images/Palks_Studio.png" alt="Palks Studio" width="1200">
 </p>
 
+<p align="center">
+  <a href="https://palks-studio.com">
+    <img src="https://img.shields.io/badge/Palks%20Studio-Website-0095b1?style=for-the-badge" />
+  </a>
+</p>
+
 # 🇫🇷 / 🇬🇧  Palks Studio
+
+> Ce dépôt constitue une présentation.  
+> Il ne contient pas de code source téléchargeable ni de fichiers de production.
 
 # Outils numériques autonomes et systèmes structurés.  
 Pensés pour des projets réels, maintenables dans le temps, sans dépendances inutiles.
-
-Site officiel : [https://palks-studio.com](https://palks-studio.com)
 
 ---
 
