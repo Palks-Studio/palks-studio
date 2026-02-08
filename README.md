@@ -2,6 +2,9 @@
   <img src="docs/images/Palks_Studio.png" alt="Palks Studio" width="1200">
 </p>
 
+![Static-first](https://img.shields.io/badge/Static--first-151b1c?style=flat)
+![Automation](https://img.shields.io/badge/Automation-0095b1?style=flat)
+
 <p align="center">
   <a href="https://palks-studio.com">
     <img src="https://img.shields.io/badge/Palks%20Studio-Website-0095b1?style=for-the-badge" />
