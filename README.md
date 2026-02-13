@@ -212,7 +212,7 @@ An intelligent chatbot template ready for professional use.
 
 A bilingual framework designed to structure technical documentation clearly.
 
-#### VS Code Environement Pack
+#### VS Code Environment Pack
 
 Clear, simple and minimalist environment configuration.
 
