@@ -98,9 +98,9 @@ Template de chatbot intelligent prêt pour un usage professionnel.
 
 Framework bilingue pour structurer la documentation technique.
 
-#### VS Code Formatting Pack
+#### VS Code Environement Pack
 
-Configuration de formatage claire et minimaliste.
+Configuration d’environnement claire, simple et minimaliste.
 
 ---
 
@@ -212,9 +212,9 @@ An intelligent chatbot template ready for professional use.
 
 A bilingual framework designed to structure technical documentation clearly.
 
-#### VS Code Formatting Pack
+#### VS Code Environement Pack
 
-A clear and minimal formatting configuration.
+Clear, simple and minimalist environment configuration.
 
 ---
 
