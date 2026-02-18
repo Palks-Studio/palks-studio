@@ -18,7 +18,7 @@
 > Ce dépôt constitue une présentation.  
 > Il ne contient pas de code source téléchargeable ni de fichiers de production.
 
-# Outils numériques autonomes et systèmes structurés.  
+## Outils numériques autonomes et systèmes structurés.  
 Pensés pour des projets réels, maintenables dans le temps, sans dépendances inutiles.
 
 ---
