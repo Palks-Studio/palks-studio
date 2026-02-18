@@ -18,10 +18,8 @@
 > This repository is a presentation.  
 > It does not contain downloadable source code or production files.
 
-Autonomous digital tools and structured systems.  
+## Autonomous digital tools and structured systems.  
 Designed for real-world projects, maintainable over time, without unnecessary dependencies.
-
-Official website: [https://palks-studio.com](https://palks-studio.com)
 
 ---
 
