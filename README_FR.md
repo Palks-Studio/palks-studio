@@ -54,7 +54,7 @@ Système de facturation complet, déployé directement chez le client.
 
 Conçu pour remplacer un SaaS de facturation tout en gardant un contrôle total sur les données.
 
-https://palks-studio.com/fr/facturation-sans-saas
+[![Facturation sans SaaS](https://img.shields.io/badge/Facturation%20sans%20SaaS-0095b1?style=flat)](https://palks-studio.com/fr/facturation-sans-saas)
 
 ---
 
@@ -70,7 +70,7 @@ Système de facturation batch basé sur Factur-X (EN16931).
 
 Utilisé pour automatiser des volumes de facturation récurrents.
 
-https://palks-studio.com/fr/facturation-batch-facturx
+[![Facturation batch Factur-X](https://img.shields.io/badge/Facturation%20batch%20Factur--X-0095b1?style=flat)](https://palks-studio.com/fr/facturation-batch-facturx)
 
 #### Outils complémentaires
 
@@ -92,7 +92,7 @@ Outil permettant de traiter des factures en lot, intégré dans les workflows Au
 - frameworks de documentation  
 - configurations de développement
 
-https://palks-studio.com/fr/ressources
+[![Ressources techniques](https://img.shields.io/badge/Ressources%20techniques-0095b1?style=flat)](https://palks-studio.com/fr/ressources)
 
 ---
 
@@ -117,7 +117,7 @@ Chaque déploiement comprend :
 
 Objectif : un système autonome, stable et maintenable dans le temps.
 
-https://palks-studio.com/fr/contact
+[![Contact](https://img.shields.io/badge/Contact-0095b1?style=flat)](https://palks-studio.com/fr/contact)
 
 ---
 
