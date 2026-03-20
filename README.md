@@ -54,7 +54,7 @@ Complete invoicing system, deployed directly on the client’s infrastructure.
 
 Designed to replace SaaS invoicing tools while maintaining full control over data.
 
-https://palks-studio.com/en/invoicing-without-saas
+[![Invoicing without SaaS](https://img.shields.io/badge/Invoicing%20without%20SaaS-0095b1?style=flat)](https://palks-studio.com/en/invoicing-without-saas)
 
 ---
 
@@ -70,7 +70,7 @@ Batch invoicing system based on Factur-X (EN16931).
 
 Used to automate recurring invoicing workflows.
 
-https://palks-studio.com/en/batch-invoicing-facturx
+[![Batch Invoicing (Factur-X)](https://img.shields.io/badge/Batch%20Invoicing%20(Factur--X)-0095b1?style=flat)](https://palks-studio.com/en/batch-invoicing-facturx)
 
 #### Additional tools
 
@@ -92,7 +92,7 @@ Tool for processing invoices in batch, integrated into Automation Finance workfl
 - documentation frameworks  
 - development environment configurations
 
-https://palks-studio.com/en/resources
+[![Resources](https://img.shields.io/badge/Resources-0095b1?style=flat)](https://palks-studio.com/en/resources)
 
 ---
 
@@ -117,7 +117,7 @@ Each deployment includes:
 
 Objective: a stable, autonomous and maintainable system.
 
-https://palks-studio.com/en/contact
+[![Contact](https://img.shields.io/badge/Contact-0095b1?style=flat)](https://palks-studio.com/en/contact)
 
 ---
 
