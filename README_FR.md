@@ -8,7 +8,7 @@
 ![Static-first](https://img.shields.io/badge/Static--first-2c3e50?style=flat)
 ![Minimal dependencies](https://img.shields.io/badge/Minimal%20dependencies-27ae60?style=flat)
 ![Deterministic systems](https://img.shields.io/badge/Deterministic%20systems-8e44ad?style=flat)
-![Malt](https://img.shields.io/badge/Malt-FF4F8B?style=flat)
+[![Malt](https://img.shields.io/badge/Malt-Profile-FF4F8B?style=flat)](https://www.malt.fr/profile/anthonyleignel)
 
 <p align="center">
   <a href="https://palks-studio.com">
