@@ -20,147 +20,127 @@
 > This repository is a presentation.  
 > It does not contain downloadable source code or production files.
 
-## Autonomous digital tools and structured systems.
+## Autonomous systems for freelancers and small teams
 
-Designed for real-world projects, maintainable over time, without unnecessary dependencies.
+Automation, invoicing, internal tools and static architectures, deployed directly on the client’s infrastructure, without SaaS dependencies.
+
+Replacement of existing tools with autonomous, controlled systems, without subscriptions.
 
 ---
 
 ## About
 
-Hello, I’m Anthony, a self-taught developer and independent creator.
+Independent developer, I design simple, reliable and maintainable technical systems.
 
-I build simple, reliable, and understandable technical tools and structures for developers, small teams,  
-and professional projects seeking stability rather than complexity.
-
-My approach is based on a few core principles:  
-
-- structural simplicity  
-- tool autonomy  
-- clear documentation  
-- predictable behavior  
-- no unnecessary dependencies
-
-I learn by building complete projects designed to be used and maintained in real conditions.
+My work focuses on tools actually used in production, with a strong emphasis on clarity, stability and autonomy.
 
 ---
 
-## What I build at Palks Studio
+## What I build
 
-### Automation and business tools
+I develop autonomous technical systems used in real-world contexts: invoicing, automation and internal tools.
 
-Autonomous tools and technical systems designed to simplify  
-real-world workflows: invoicing, document generation,  
-data structuring and process automation.
+### Billing System
 
-### Static web structures and technical maintenance
+Complete invoicing system, deployed directly on the client’s infrastructure.
 
-Durable HTML / CSS foundations without frameworks or CMS,  
-designed for readability, performance and long-term maintenance.
+- quotes → signature → invoice → payment  
+- PDF generation (client-side + server-side)  
+- structured archiving without database  
+- secure numbering and full traceability  
+- automated email sending  
+- bilingual interface (FR / EN)
 
-This work also includes auditing, simplifying and repairing  
-existing static web structures when necessary.
+Designed to replace SaaS invoicing tools while maintaining full control over data.
 
-### Templates and autonomous tools
-
-Ready-to-use scripts and technical foundations that are easy to understand and adapt.
-
-### Local chatbots (Flask / JSON)
-
-Chatbots running entirely locally, with optional OpenAI integration.
-
-### Documentation frameworks
-
-Structures and methods to organize, explain, and maintain clean and readable technical projects.
-
-### Development configurations
-
-Minimal and consistent VS Code configurations without external dependencies.
+https://palks-studio.com/en/invoicing-without-saas
 
 ---
-
-## Systems & Architecture
-
-Some systems developed at Palks Studio are internal technical  
-components focused on automation, deterministic workflows and  
-structured data processing.
-
-These include batch invoicing engines (Factur-X / EN16931),  
-token-based delivery systems, automated archiving workflows  
-and internal automation tools designed for reliability and  
-long-term maintainability.
-
-These systems are not published as source code but reflect the  
-technical approach and architecture principles presented here.
-
----
-
-## Public Projects
-
-The public projects below include core systems, reusable technical foundations, and real-world projects presented as technical demonstrations.
 
 ### Automation Finance
 
-A batch invoicing automation engine (Factur-X / EN16931) designed for reproducible, traceable and deterministic workflows.
+Batch invoicing system based on Factur-X (EN16931).
 
-The system automates invoice generation, structures archives and reduces manual handling in professional environments.
+- automatic generation from CSV  
+- structured invoice production  
+- full archiving and traceability  
+- secure delivery via token  
+- reproducible batch processing
 
-It also includes several operational tools such as:  
+Used to automate recurring invoicing workflows.
 
-- automated invoice generation  
-- structured document archiving  
-- token-based secure delivery  
-- paid / pending invoice management  
-- an invoice receipt stamper allowing users to upload a ZIP archive, detect invoices automatically and generate stamped "paid" PDF versions.
+https://palks-studio.com/en/batch-invoicing-facturx
 
-### Quote Generator (Free)
+#### Additional tools
 
-A professional quote generator running entirely in the browser.
+**PDF Payment Stamping Engine**  
+Tool for processing invoices in batch, integrated into Automation Finance workflows.
 
-- no account required  
-- no data transmitted  
-- PDF generated locally  
-- bilingual FR / EN  
-- multi-currency support  
-- customizable logo
-
-[https://palks-studio.com/fr/generateur-devis](https://palks-studio.com/fr/generateur-devis)
-
-### Static Site
-
-Professional static website foundation built with HTML and CSS, without frameworks or CMS.  
-Demo EN: [https://demo-en.palks-studio.com](https://demo-en.palks-studio.com)  
-Demo FR: [https://demo.palks-studio.com](https://demo.palks-studio.com)
-
-### Flask Chatbot 2.0
-
-An intelligent chatbot template ready for professional use.
-
-### Documentation Framework
-
-A bilingual framework designed to structure technical documentation clearly.
-
-### VS Code Environment Pack
-
-Clear, simple and minimalist environment configuration.
+- ZIP import  
+- automatic PDF detection  
+- generation of stamped (paid) invoices  
+- individual or batch export
 
 ---
 
-## Real-world Project
+### Other tools
 
-**SantéPlusAI**  
-A fully static web project presented as a technical demonstration.
+- quote generator (100% browser-based)  
+- static website foundations (HTML/CSS)  
+- local chatbots (Flask)  
+- documentation frameworks  
+- development environment configurations
 
-[https://santeplusai.fr/](https://santeplusai.fr/)
+https://palks-studio.com/en/resources
 
 ---
 
-## Philosophy
+## What I deploy
 
-The tools published here prioritize clarity, stability, and autonomy.  
+I deploy selected systems directly on the client’s infrastructure.
+
+This includes:  
+
+- Billing System (complete invoicing)  
+- Automation Finance (batch invoicing)  
+- PDF payment stamping engine  
+- custom developments based on client needs
+
+Each deployment includes:  
+
+- server installation (shared hosting or VPS)  
+- full configuration (emails, paths, identity)  
+- adaptation to existing data  
+- testing and validation  
+- user documentation
+
+Objective: a stable, autonomous and maintainable system.
+
+https://palks-studio.com/en/contact
+
+---
+
+## Who it’s for
+
+- freelancers  
+- independent professionals  
+- small teams  
+- technical projects requiring simple and reliable tools
+
+---
+
+## Approach
+
+- autonomous systems, no SaaS  
+- minimal dependencies  
+- readable architecture  
+- predictable behavior  
+- long-term maintainability  
+
+The tools presented here prioritize clarity, stability and autonomy.  
 The goal is not to add complexity, but to remove it.
 
-Whenever possible, systems are designed to run locally  
-to reduce external dependencies and ensure long-term portability.
+Systems favor local execution whenever possible  
+to reduce external dependencies and ensure portability.
 
 - https://palks-studio.com
