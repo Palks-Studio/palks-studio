@@ -5,9 +5,9 @@
 > 🇬🇧 English | [🇫🇷 Français](./README_FR.md)
 
 ![Automation](https://img.shields.io/badge/Automation-0095b1?style=flat)
-![Static-first](https://img.shields.io/badge/Static--first-151b1c?style=flat)
-![Minimal dependencies](https://img.shields.io/badge/Minimal%20dependencies-151b1c?style=flat)
-![Deterministic systems](https://img.shields.io/badge/Deterministic%20systems-151b1c?style=flat)
+![Static-first](https://img.shields.io/badge/Static--first-2c3e50?style=flat)
+![Minimal dependencies](https://img.shields.io/badge/Minimal%20dependencies-27ae60?style=flat)
+![Deterministic systems](https://img.shields.io/badge/Deterministic%20systems-8e44ad?style=flat)
 
 <p align="center">
   <a href="https://palks-studio.com">
