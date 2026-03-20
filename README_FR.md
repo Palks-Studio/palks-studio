@@ -20,145 +20,122 @@
 > Ce dépôt constitue une présentation.  
 > Il ne contient pas de code source téléchargeable ni de fichiers de production.
 
-## Outils numériques autonomes et systèmes structurés.
+## Systèmes autonomes pour freelances et petites équipes
 
-Pensés pour des projets réels, maintenables dans le temps, sans dépendances inutiles.
+Automatisation, facturation, outils internes et architectures statiques, déployés directement chez le client, sans dépendances SaaS.
+
+Remplacement d’outils existants par des systèmes autonomes, maîtrisés et sans abonnement.
 
 ---
 
 ## À propos
 
-Bonjour, je suis Anthony, développeur autodidacte et créateur indépendant.
+Développeur indépendant, je conçois des systèmes techniques simples, fiables et maintenables.
 
-Je construis des outils et des structures techniques simples, fiables et compréhensibles, destinés aux développeurs,  
-aux petites équipes et aux projets professionnels qui recherchent de la stabilité plutôt que de la complexité.
-
-Mon approche repose sur quelques principes simples :  
-
-- simplicité structurelle  
-- autonomie des outils  
-- documentation claire  
-- fonctionnement prévisible  
-- absence de dépendances inutiles
-
-J’apprends en construisant des projets complets, pensés pour être réellement utilisés et maintenus dans le temps.
+Mon travail est centré sur des outils réellement utilisés en production, avec une priorité donnée à la clarté, la stabilité et l’autonomie.
 
 ---
 
-## Ce que je construis chez Palks Studio
+## Ce que je construis
 
-### Automatisation et outils métier
+Je développe des systèmes techniques autonomes utilisés dans des contextes réels : facturation, automatisation et outils internes.
 
-Outils autonomes et systèmes techniques conçus pour simplifier  
-les workflows réels : facturation, génération de documents,  
-structuration de données et automatisation de processus.
+### Billing System
 
-### Structures web statiques et maintenance technique
+Système de facturation complet, déployé directement chez le client.
 
-Socles HTML / CSS durables, sans framework ni CMS,  
-conçus pour la lisibilité, la performance et la maintenance long terme.
+- devis → signature → facture → acquittement  
+- génération PDF (client + serveur)  
+- archivage structuré sans base de données  
+- numérotation sécurisée et traçabilité  
+- envoi email automatique  
+- interface bilingue FR / EN  
 
-Ce travail inclut également l'audit, la simplification et la réparation  
-de structures web existantes.
+Conçu pour remplacer un SaaS de facturation tout en gardant un contrôle total sur les données.
 
-### Templates et outils autonomes
-
-Scripts et bases techniques prêts à l’emploi, simples à comprendre et à adapter.
-
-### Chatbots locaux (Flask / JSON)
-
-Chatbots fonctionnant entièrement en local, avec intégration OpenAI optionnelle.
-
-### Frameworks de documentation
-
-Structures et méthodes pour organiser, expliquer et maintenir des projets techniques propres.
-
-### Configurations de développement
-
-Configurations VS Code minimalistes et cohérentes, sans dépendance externe.
+https://palks-studio.com/fr/facturation-sans-saas
 
 ---
-
-## Systèmes et architecture
-
-Certains systèmes développés chez Palks Studio correspondent à  
-des composants techniques internes orientés automatisation,  
-workflows déterministes et traitement structuré de données.
-
-Cela inclut notamment des moteurs de facturation batch  
-(Factur-X / EN16931), des systèmes de livraison basés sur  
-des tokens, des workflows d’archivage automatisés ainsi que  
-des outils d’automatisation internes conçus pour la fiabilité  
-et la maintenabilité dans le temps.
-
-Ces systèmes ne sont pas publiés sous forme de code source,  
-mais reflètent l’approche technique et les principes  
-d’architecture présentés dans ce dépôt.
-
----
-
-## Projets publics
-
-Les projets publics ci-dessous regroupent des systèmes principaux,  
-des bases techniques réutilisables et des projets réels utilisés comme démonstration.
 
 ### Automation Finance
 
-Moteur d’automatisation de facturation batch (Factur-X / EN16931), conçu pour des flux reproductibles, traçables et déterministes.
+Système de facturation batch basé sur Factur-X (EN16931).
 
-Le système permet d’automatiser la génération de factures, structurer les archives et réduire les manipulations manuelles dans des contextes professionnels.
-
-Il inclut également plusieurs outils opérationnels complémentaires, notamment :  
-
-- génération automatisée de factures  
-- structuration et archivage des documents  
+- génération automatique depuis CSV  
+- production de factures structurées  
+- archivage et traçabilité complète  
 - livraison sécurisée par token  
-- gestion des factures payées / en attente  
-- outil d’acquittement de factures permettant de charger un ZIP, détecter automatiquement les PDF et générer des versions acquittées datées.
+- traitement en lot reproductible
 
-### Quote Generator (Free)
+Utilisé pour automatiser des volumes de facturation récurrents.
 
-Générateur de devis professionnel fonctionnant entièrement dans le navigateur.
+https://palks-studio.com/fr/facturation-batch-facturx
 
-- aucun compte  
-- aucune donnée transmise  
-- PDF généré localement  
-- bilingue FR / EN  
-- multi-devises  
-- logo personnalisable
+#### Outils complémentaires
 
-[https://palks-studio.com/fr/generateur-devis](https://palks-studio.com/fr/generateur-devis)
+**Moteur d’acquittement PDF**  
+Outil permettant de traiter des factures en lot, intégré dans les workflows Automation Finance.
 
-### Static Site
-
-Socle de site statique professionnel en HTML et CSS, sans framework ni CMS.  
-Demo FR : [https://demo.palks-studio.com](https://demo.palks-studio.com)  
-Demo EN : [https://demo-en.palks-studio.com](https://demo-en.palks-studio.com)
-
-### Flask Chatbot 2.0
-
-Template de chatbot intelligent prêt pour un usage professionnel.
-
-### Documentation Framework
-
-Framework bilingue pour structurer la documentation technique.
-
-### VS Code Environement Pack
-
-Configuration d’environnement claire, simple et minimaliste.
+- import ZIP  
+- détection automatique des PDF  
+- génération de factures acquittées  
+- export individuel ou batch
 
 ---
 
-## Exemple de projet
+### Autres outils
 
-**SantéPlusAI**  
-Exemple de projet web 100 % statique, présenté comme démonstration technique.
+- générateur de devis (100 % navigateur)  
+- socles de sites statiques HTML/CSS  
+- chatbots locaux (Flask)  
+- frameworks de documentation  
+- configurations de développement
 
-[https://santeplusai.fr/](https://santeplusai.fr/)
+https://palks-studio.com/fr/ressources
 
 ---
 
-## Philosophie
+## Ce que je déploie
+
+Je déploie certains systèmes directement chez le client.
+
+Cela inclut notamment :  
+
+- Billing System (facturation complète)  
+- Automation Finance (facturation batch)  
+- moteur d’acquittement de factures PDF  
+- développements sur mesure selon besoin
+
+Chaque déploiement comprend :  
+
+- installation sur serveur (mutualisé ou VPS)  
+- configuration complète (emails, chemins, identité)  
+- adaptation aux données existantes  
+- tests et validation  
+- documentation utilisateur
+
+Objectif : un système autonome, stable et maintenable dans le temps.
+
+https://palks-studio.com/fr/contact
+
+---
+
+## Pour qui
+
+- freelances  
+- indépendants  
+- petites structures  
+- projets techniques nécessitant des outils simples et fiables
+
+---
+
+## Approche
+
+- systèmes autonomes, sans SaaS  
+- dépendances minimales  
+- architecture lisible  
+- fonctionnement prévisible  
+- maintenance long terme
 
 Les outils publiés ici privilégient la clarté, la stabilité et l’autonomie.  
 L’objectif n’est pas d’ajouter de la complexité, mais d’en retirer.
