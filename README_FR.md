@@ -57,9 +57,18 @@ Conçu pour remplacer un SaaS de facturation tout en conservant un contrôle tot
 
 [![Facturation sans SaaS](https://img.shields.io/badge/Facturation%20sans%20SaaS-0095b1?style=flat)](https://palks-studio.com/fr/facturation-sans-saas)
 
----
+### Autres systèmes backend sur mesure
 
-### Automation Finance
+- outils internes et workflows métier  
+- automatisation de traitements et tâches récurrentes  
+- génération et traitement de documents PDF  
+- systèmes documentaires et archivage structuré  
+- intégration Stripe et traitements sécurisés  
+- systèmes backend sans base de données  
+- interfaces internes et traitements batch  
+- déploiement serveur autonome sans SaaS
+
+#### Automation Finance
 
 Système de facturation batch basé sur Factur-X (EN16931) :
 
