@@ -21,38 +21,39 @@
 > This repository is a presentation.  
 > It does not contain downloadable source code or production files.
 
-## Autonomous systems for freelancers and small teams
+## Autonomous backend systems
 
-Automation, invoicing, internal tools and static architectures, deployed directly on the client’s infrastructure, without SaaS dependencies.
+Electronic invoicing, automation, internal tools, and lightweight infrastructures deployed directly on the client’s server, without SaaS or external dependencies.
 
-Replacement of existing tools with autonomous, controlled systems, without subscriptions.
+Design and deployment of autonomous technical systems built for real-world usage: document processing, business workflows, PDF generation, structured archiving, and backend automation.
 
 ---
 
 ## About
 
-Independent developer, I design simple, reliable and maintainable technical systems.
+Independent developer specialized in autonomous backend systems and electronic invoicing.
 
-My work focuses on tools actually used in production, with a strong emphasis on clarity, stability and autonomy.
+I build technical tools designed to run reliably in production environments, with a strong focus on simplicity, stability, maintainability, and data control.
 
 ---
 
-## What I build
+## What I deploy
 
-I develop autonomous technical systems used in real-world contexts: invoicing, automation and internal tools.
+I develop autonomous technical systems used in real-world environments: autonomous backend systems, autonomous electronic invoicing systems, automation, and internal tools.
 
 ### Billing System
 
-Complete invoicing system, deployed directly on the client’s infrastructure.
+Complete electronic invoicing system deployed directly on the client’s infrastructure:  
 
-- quotes → signature → invoice → payment  
-- PDF generation (client-side + server-side)  
+- quote → signature → invoice → payment confirmation  
+- Factur-X / EN16931 compliant invoice generation  
+- PDF generation (client + server)  
 - structured archiving without database  
-- secure numbering and full traceability  
-- automated email sending  
-- bilingual interface (FR / EN)
+- secure numbering and traceability  
+- automatic email sending  
+- bilingual FR / EN interface
 
-Designed to replace SaaS invoicing tools while maintaining full control over data.
+Designed to replace invoicing SaaS platforms while keeping full control over data and infrastructure.
 
 [![Invoicing without SaaS](https://img.shields.io/badge/Invoicing%20without%20SaaS-0095b1?style=flat)](https://palks-studio.com/en/invoicing-without-saas)
 
@@ -60,7 +61,7 @@ Designed to replace SaaS invoicing tools while maintaining full control over dat
 
 ### Automation Finance
 
-Batch invoicing system based on Factur-X (EN16931).
+Batch invoicing system based on Factur-X (EN16931):  
 
 - automatic generation from CSV  
 - structured invoice production  
@@ -82,30 +83,20 @@ Tool for processing invoices in batch, integrated into Automation Finance workfl
 - generation of stamped (paid) invoices  
 - individual or batch export
 
+[![Invoice Stamper](https://img.shields.io/badge/Invoice%20Stamper-GitHub-0095b1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Palks-Studio/invoice-stamper)
+
 ---
 
 ### Other tools
 
 - quote generator (100% browser-based)  
+- factur-X electronic invoicing demonstration system  
 - static website foundations (HTML/CSS)  
 - local chatbots (Flask)  
 - documentation frameworks  
 - development environment configurations
 
 [![Resources](https://img.shields.io/badge/Resources-0095b1?style=flat)](https://palks-studio.com/en/resources)
-
----
-
-## What I deploy
-
-I deploy selected systems directly on the client’s infrastructure.
-
-This includes:  
-
-- Billing System (complete invoicing)  
-- Automation Finance (batch invoicing)  
-- PDF payment stamping engine  
-- custom developments based on client needs
 
 Each deployment includes:  
 
@@ -121,12 +112,13 @@ Objective: a stable, autonomous and maintainable system.
 
 ---
 
-## Who it’s for
+## Who it's for
 
-- freelancers  
-- independent professionals  
-- small teams  
-- technical projects requiring simple and reliable tools
+- freelancers and independent professionals  
+- artisans and small businesses  
+- SMEs and operational teams  
+- businesses looking for autonomous systems without SaaS  
+- technical projects requiring simple, reliable, and maintainable tools
 
 ---
 
