@@ -21,38 +21,39 @@
 > Ce dépôt constitue une présentation.  
 > Il ne contient pas de code source téléchargeable ni de fichiers de production.
 
-## Systèmes autonomes pour freelances et petites équipes
+## Systèmes backend autonomes
 
-Automatisation, facturation, outils internes et architectures statiques, déployés directement chez le client, sans dépendances SaaS.
+Facturation électronique, automatisation, outils internes et infrastructures légères déployés directement chez le client, sans SaaS ni dépendances externes.
 
-Remplacement d’outils existants par des systèmes autonomes, maîtrisés et sans abonnement.
+Conception de systèmes techniques autonomes, maintenables et adaptés à des usages réels : traitement documentaire, workflows métier, génération PDF, archivage structuré et automatisations backend.
 
 ---
 
 ## À propos
 
-Développeur indépendant, je conçois des systèmes techniques simples, fiables et maintenables.
+Développeur indépendant spécialisé dans les systèmes backend autonomes et la facturation électronique.
 
-Mon travail est centré sur des outils réellement utilisés en production, avec une priorité donnée à la clarté, la stabilité et l’autonomie.
+Je développe des outils techniques conçus pour fonctionner durablement en production, avec une approche centrée sur la simplicité, la stabilité, la maintenabilité et le contrôle des données.
 
 ---
 
-## Ce que je construis
+## Ce que je déploie
 
-Je développe des systèmes techniques autonomes utilisés dans des contextes réels : facturation, automatisation et outils internes.
+Je développe des systèmes techniques autonomes utilisés dans des contextes réels : systèmes backend autonomes, systèmes de facturation électroniques autonomes, automatisation et outils internes.
 
 ### Billing System
 
-Système de facturation complet, déployé directement chez le client.
+Système de facturation électronique complet, déployé directement sur l’infrastructure du client :
 
 - devis → signature → facture → acquittement  
+- génération de factures conformes Factur-X / EN16931  
 - génération PDF (client + serveur)  
 - archivage structuré sans base de données  
 - numérotation sécurisée et traçabilité  
-- envoi email automatique  
-- interface bilingue FR / EN  
+- envoi automatique des emails  
+- interface bilingue FR / EN
 
-Conçu pour remplacer un SaaS de facturation tout en gardant un contrôle total sur les données.
+Conçu pour remplacer un SaaS de facturation tout en conservant un contrôle total sur les données et l’infrastructure.
 
 [![Facturation sans SaaS](https://img.shields.io/badge/Facturation%20sans%20SaaS-0095b1?style=flat)](https://palks-studio.com/fr/facturation-sans-saas)
 
@@ -60,7 +61,7 @@ Conçu pour remplacer un SaaS de facturation tout en gardant un contrôle total 
 
 ### Automation Finance
 
-Système de facturation batch basé sur Factur-X (EN16931).
+Système de facturation batch basé sur Factur-X (EN16931) :
 
 - génération automatique depuis CSV  
 - production de factures structurées  
@@ -82,11 +83,14 @@ Outil permettant de traiter des factures en lot, intégré dans les workflows Au
 - génération de factures acquittées  
 - export individuel ou batch
 
+[![Invoice Stamper](https://img.shields.io/badge/Invoice%20Stamper-GitHub-0095b1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Palks-Studio/invoice-stamper)
+
 ---
 
 ### Autres outils
 
 - générateur de devis (100 % navigateur)  
+- démonstrateur de facturation électronique Factur-X  
 - socles de sites statiques HTML/CSS  
 - chatbots locaux (Flask)  
 - frameworks de documentation  
@@ -95,17 +99,6 @@ Outil permettant de traiter des factures en lot, intégré dans les workflows Au
 [![Ressources techniques](https://img.shields.io/badge/Ressources%20techniques-0095b1?style=flat)](https://palks-studio.com/fr/ressources)
 
 ---
-
-## Ce que je déploie
-
-Je déploie certains systèmes directement chez le client.
-
-Cela inclut notamment :  
-
-- Billing System (facturation complète)  
-- Automation Finance (facturation batch)  
-- moteur d’acquittement de factures PDF  
-- développements sur mesure selon besoin
 
 Chaque déploiement comprend :  
 
@@ -123,10 +116,11 @@ Objectif : un système autonome, stable et maintenable dans le temps.
 
 ## Pour qui
 
-- freelances  
-- indépendants  
-- petites structures  
-- projets techniques nécessitant des outils simples et fiables
+- freelances et indépendants  
+- artisans et petites structures  
+- PME et équipes métier  
+- entreprises souhaitant des systèmes autonomes sans SaaS  
+- projets techniques nécessitant des outils simples, fiables et maintenables
 
 ---
 
