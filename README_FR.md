@@ -31,7 +31,7 @@ Conception de systèmes techniques autonomes, maintenables et adaptés à des us
 
 ## À propos
 
-Développeur indépendant spécialisé dans les systèmes backend autonomes et la facturation électronique.
+Éditeur / intégrateur indépendant spécialisé dans les systèmes backend autonomes et la facturation électronique.
 
 Je développe des outils techniques conçus pour fonctionner durablement en production, avec une approche centrée sur la simplicité, la stabilité, la maintenabilité et le contrôle des données.
 
