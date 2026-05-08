@@ -57,9 +57,18 @@ Designed to replace invoicing SaaS platforms while keeping full control over dat
 
 [![Invoicing without SaaS](https://img.shields.io/badge/Invoicing%20without%20SaaS-0095b1?style=flat)](https://palks-studio.com/en/invoicing-without-saas)
 
----
+### Other custom backend systems
 
-### Automation Finance
+- internal tools and business workflows  
+- automation of recurring tasks and processing  
+- PDF generation and document processing  
+- document systems and structured archiving  
+- Stripe integration and secure processing  
+- database-free backend systems  
+- internal interfaces and batch processing  
+- autonomous server deployment without SaaS
+
+#### Automation Finance
 
 Batch invoicing system based on Factur-X (EN16931):  
 
