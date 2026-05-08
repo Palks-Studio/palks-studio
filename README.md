@@ -31,7 +31,7 @@ Design and deployment of autonomous technical systems built for real-world usage
 
 ## About
 
-Independent developer specialized in autonomous backend systems and electronic invoicing.
+Independent software publisher / integrator specialized in autonomous backend systems and electronic invoicing.
 
 I build technical tools designed to run reliably in production environments, with a strong focus on simplicity, stability, maintainability, and data control.
 
