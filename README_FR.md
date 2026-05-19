@@ -57,6 +57,22 @@ Conçu pour remplacer un SaaS de facturation tout en conservant un contrôle tot
 
 [![Facturation sans SaaS](https://img.shields.io/badge/Facturation%20sans%20SaaS-0095b1?style=flat)](https://palks-studio.com/fr/facturation-sans-saas)
 
+### Candidate System
+
+Système de recrutement par scoring automatique, déployé directement sur l'infrastructure du client :  
+
+- formulaire candidat → scoring → dashboard → export  
+- scoring déterministe à 3 niveaux : section, question, réponse  
+- malus configurables par campagne  
+- gestion multi-campagnes sans intervention sur le code  
+- stockage JSON sans base de données  
+- emails automatiques (accusé de réception + clôture)  
+- interface bilingue FR / EN
+
+Conçu pour remplacer le tri manuel des candidatures tout en conservant un contrôle total sur les critères, les données et l'infrastructure.
+
+[![Recrutement sans SaaS](https://img.shields.io/badge/Recrutement%20sans%20SaaS-0095b1?style=flat)](https://palks-studio.com/fr/recrutement-sans-saas)
+
 ### Autres systèmes backend sur mesure
 
 - outils internes et workflows métier  
