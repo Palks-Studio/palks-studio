@@ -57,6 +57,22 @@ Designed to replace invoicing SaaS platforms while keeping full control over dat
 
 [![Invoicing without SaaS](https://img.shields.io/badge/Invoicing%20without%20SaaS-0095b1?style=flat)](https://palks-studio.com/en/invoicing-without-saas)
 
+### Candidate System
+
+Autonomous recruitment system with automatic scoring, deployed directly on the client's infrastructure:  
+
+- candidate form → scoring → dashboard → export  
+- deterministic 3-level scoring: section, question, answer  
+- configurable penalties per campaign  
+- multi-campaign management without touching the code  
+- JSON storage, no database  
+- automatic emails (confirmation + closure)  
+- bilingual interface FR / EN
+
+Designed to replace manual candidate sorting while retaining full control over criteria, data and infrastructure.
+
+[![Recruitment without SaaS](https://img.shields.io/badge/Recruitment%20without%20SaaS-0095b1?style=flat)](https://palks-studio.com/en/recruitment-without-saas)
+
 ### Other custom backend systems
 
 - internal tools and business workflows  
