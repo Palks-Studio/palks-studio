@@ -73,6 +73,28 @@ Conçu pour remplacer le tri manuel des candidatures tout en conservant un contr
 
 [![Recrutement sans SaaS](https://img.shields.io/badge/Recrutement%20sans%20SaaS-0095b1?style=flat)](https://palks-studio.com/fr/recrutement-sans-saas)
 
+### Data Collection System
+
+Système de collecte de données autonome fonctionnant localement ou sur infrastructure dédiée :
+
+- recherches multi-sources (DuckDuckGo, Bing, Qwant)  
+- extraction de sites web, emails et numéros de téléphone  
+- nettoyage, normalisation et validation des données  
+- suppression automatique des doublons  
+- suivi des prospects déjà contactés  
+- exports CSV et JSON  
+- interface web intégrée  
+- fonctionnement local sans SaaS ni API payante
+
+Conçu pour centraliser et exploiter des données structurées tout en conservant un contrôle total sur l'infrastructure et les données collectées.
+
+Livraison possible :
+
+- archive ZIP avec documentation d'installation  
+- déploiement serveur sur demande
+
+[![Collecte de données sans SaaS](https://img.shields.io/badge/Collecte%20de%20donn%C3%A9es%20sans%20SaaS-0095b1?style=flat)](https://github.com/Palks-Studio/data-collection-system)
+
 ### Autres systèmes backend sur mesure
 
 - outils internes et workflows métier  
