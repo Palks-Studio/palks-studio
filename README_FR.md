@@ -93,7 +93,7 @@ Livraison possible :
 - archive ZIP avec documentation d'installation  
 - déploiement serveur sur demande
 
-[![Collecte de données sans SaaS](https://img.shields.io/badge/Collecte%20de%20donn%C3%A9es%20sans%20SaaS-0095b1?style=flat)](https://github.com/Palks-Studio/data-collection-system)
+[![Système de Collecte de Données FR](https://img.shields.io/badge/Collecte%20de%20Données-FR-0095b1?style=for-the-badge)](https://palks-studio.com/fr/collecte-de-donnees)
 
 ### Autres systèmes backend sur mesure
 
