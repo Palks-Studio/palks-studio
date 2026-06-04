@@ -93,7 +93,7 @@ Available delivery options:
 - ZIP package with installation documentation  
 - server deployment on request
 
-[![Data Collection without SaaS](https://img.shields.io/badge/Data%20Collection%20without%20SaaS-0095b1?style=flat)](https://github.com/Palks-Studio/data-collection-system)
+[![Data Collection System EN](https://img.shields.io/badge/Data%20Collection%20System-EN-0095b1?style=for-the-badge)](https://palks-studio.com/en/data-collection)
 
 ### Other custom backend systems
 
