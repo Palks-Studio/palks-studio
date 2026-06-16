@@ -184,3 +184,4 @@ Systems favor local execution whenever possible
 to reduce external dependencies and ensure portability.
 
 - https://palks-studio.com
+Documentation update.
