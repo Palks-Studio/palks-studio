@@ -118,7 +118,7 @@ Batch invoicing system based on Factur-X (EN16931):
 
 Used to automate recurring invoicing workflows.
 
-[![Batch Invoicing (Factur-X)](https://github.com/Palks-Studio/automation-system)]
+[![Batch Invoicing (Factur-X)](https://img.shields.io/badge/Batch%20Invoicing%20(Factur--X)-0095b1?style=flat)](https://github.com/Palks-Studio/automation-system)
 
 #### Additional tools
 
