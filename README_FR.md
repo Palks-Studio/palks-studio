@@ -108,7 +108,7 @@ Livraison possible :
 
 #### Automation Finance
 
-Système de facturation batch basé sur Factur-X (EN16931) :
+Système de facturation batch PDF :
 
 - génération automatique depuis CSV  
 - production de factures structurées  
@@ -118,7 +118,7 @@ Système de facturation batch basé sur Factur-X (EN16931) :
 
 Utilisé pour automatiser des volumes de facturation récurrents.
 
-[![Facturation batch Factur-X](https://img.shields.io/badge/Facturation%20batch%20Factur--X-0095b1?style=flat)](https://palks-studio.com/fr/facturation-batch-facturx)
+[![Facturation batch Factur-X](https://img.shields.io/badge/Batch%20Invoicing%20(Factur--X)-0095b1?style=flat)](https://github.com/Palks-Studio/automation-system)
 
 #### Outils complémentaires
 
