@@ -57,7 +57,7 @@ Système de facturation électronique complet, déployé directement sur l’inf
 
 Conçu pour remplacer un SaaS de facturation tout en conservant un contrôle total sur les données et l’infrastructure.
 
-[![Facturation sans SaaS](https://img.shields.io/badge/Facturation%20sans%20SaaS-0095b1?style=flat)](https://palks-studio.com/fr/facturation-sans-saas)
+[Voir le système](https://palks-studio.com/fr/facturation-sans-saas)
 
 ### Candidate System
 
@@ -73,7 +73,7 @@ Système de recrutement par scoring automatique, déployé directement sur l'inf
 
 Conçu pour remplacer le tri manuel des candidatures tout en conservant un contrôle total sur les critères, les données et l'infrastructure.
 
-[![Recrutement sans SaaS](https://img.shields.io/badge/Recrutement%20sans%20SaaS-0095b1?style=flat)](https://palks-studio.com/fr/recrutement-sans-saas)
+[Voir le système](https://palks-studio.com/fr/recrutement-sans-saas)
 
 ### Data Collection System
 
@@ -95,7 +95,7 @@ Livraison possible :
 - archive ZIP avec documentation d'installation  
 - déploiement serveur sur demande
 
-[![Système de Collecte de Données FR](https://img.shields.io/badge/Collecte%20de%20Données-FR-0095b1?style=for-the-badge)](https://palks-studio.com/fr/collecte-de-donnees)
+[Voir le système](https://palks-studio.com/fr/collecte-de-donnees)
 
 ### Autres systèmes backend sur mesure
 
@@ -120,7 +120,7 @@ Système de facturation batch PDF :
 
 Utilisé pour automatiser des volumes de facturation récurrents.
 
-[![Facturation batch Factur-X](https://img.shields.io/badge/Batch%20Invoicing%20(Factur--X)-0095b1?style=flat)](https://github.com/Palks-Studio/automation-system)
+[Voir le dépôt](https://github.com/Palks-Studio/automation-system)
 
 #### Outils complémentaires
 
@@ -132,7 +132,7 @@ Outil permettant de traiter des factures en lot, intégré dans les workflows Au
 - génération de factures acquittées  
 - export individuel ou batch
 
-[![Invoice Stamper](https://img.shields.io/badge/Invoice%20Stamper-GitHub-0095b1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Palks-Studio/invoice-stamper)
+[Voir le dépôt](https://github.com/Palks-Studio/invoice-stamper)
 
 ---
 
@@ -145,7 +145,7 @@ Outil permettant de traiter des factures en lot, intégré dans les workflows Au
 - frameworks de documentation  
 - configurations de développement
 
-[![Ressources techniques](https://img.shields.io/badge/Ressources%20techniques-0095b1?style=flat)](https://palks-studio.com/fr/ressources)
+[![Voir les ressources](https://palks-studio.com/fr/ressources)
 
 ---
 
