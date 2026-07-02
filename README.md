@@ -57,7 +57,7 @@ Complete electronic invoicing system deployed directly on the client’s infrast
 
 Designed to replace invoicing SaaS platforms while keeping full control over data and infrastructure.
 
-[![Invoicing without SaaS](https://img.shields.io/badge/Invoicing%20without%20SaaS-0095b1?style=flat)](https://palks-studio.com/en/invoicing-without-saas)
+[View the System](https://palks-studio.com/en/invoicing-without-saas)
 
 ### Candidate System
 
@@ -73,7 +73,7 @@ Autonomous recruitment system with automatic scoring, deployed directly on the c
 
 Designed to replace manual candidate sorting while retaining full control over criteria, data and infrastructure.
 
-[![Recruitment without SaaS](https://img.shields.io/badge/Recruitment%20without%20SaaS-0095b1?style=flat)](https://palks-studio.com/en/recruitment-without-saas)
+[View the System](https://palks-studio.com/en/recruitment-without-saas)
 
 ### Data Collection System
 
@@ -95,7 +95,7 @@ Available delivery options:
 - ZIP package with installation documentation  
 - server deployment on request
 
-[![Data Collection System EN](https://img.shields.io/badge/Data%20Collection%20System-EN-0095b1?style=for-the-badge)](https://palks-studio.com/en/data-collection)
+[View the System](https://palks-studio.com/en/data-collection)
 
 ### Other custom backend systems
 
@@ -120,7 +120,7 @@ Batch invoicing system based on Factur-X (EN16931):
 
 Used to automate recurring invoicing workflows.
 
-[![Batch Invoicing (Factur-X)](https://img.shields.io/badge/Batch%20Invoicing%20(Factur--X)-0095b1?style=flat)](https://github.com/Palks-Studio/automation-system)
+[View the Repository](https://github.com/Palks-Studio/automation-system)
 
 #### Additional tools
 
@@ -132,7 +132,7 @@ Tool for processing invoices in batch, integrated into Automation Finance workfl
 - generation of stamped (paid) invoices  
 - individual or batch export
 
-[![Invoice Stamper](https://img.shields.io/badge/Invoice%20Stamper-GitHub-0095b1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Palks-Studio/invoice-stamper)
+[View the Repository](https://github.com/Palks-Studio/invoice-stamper)
 
 ---
 
@@ -145,7 +145,7 @@ Tool for processing invoices in batch, integrated into Automation Finance workfl
 - documentation frameworks  
 - development environment configurations
 
-[![Resources](https://img.shields.io/badge/Resources-0095b1?style=flat)](https://palks-studio.com/en/resources)
+[![View the Resources](https://palks-studio.com/en/resources)
 
 Each deployment includes:  
 
