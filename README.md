@@ -145,7 +145,7 @@ Tool for processing invoices in batch, integrated into Automation Finance workfl
 - documentation frameworks  
 - development environment configurations
 
-[![View the Resources](https://palks-studio.com/en/resources)
+[View the Resources](https://palks-studio.com/en/resources)
 
 Each deployment includes:  
 
