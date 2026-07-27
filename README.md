@@ -121,7 +121,9 @@ Available delivery options:
 
 [View the System](https://palks-studio.com/en/data-collection)
 
-### Other custom backend systems
+---
+
+## Other custom backend systems
 
 - internal tools and business workflows  
 - automation of recurring tasks and processing  
@@ -132,7 +134,7 @@ Available delivery options:
 - internal interfaces and batch processing  
 - autonomous server deployment without SaaS
 
-#### Automation Finance
+### Automation Finance
 
 Batch invoicing system based on Factur-X (EN16931):  
 
@@ -146,7 +148,9 @@ Used to automate recurring invoicing workflows.
 
 [View the Repository](https://github.com/Palks-Studio/automation-system)
 
-#### Additional tools
+---
+
+## Additional tools
 
 **PDF Payment Stamping Engine**  
 Tool for processing invoices in batch, integrated into Automation Finance workflows.
@@ -158,7 +162,6 @@ Tool for processing invoices in batch, integrated into Automation Finance workfl
 
 [View the Repository](https://github.com/Palks-Studio/invoice-stamper)
 
----
 
 ### Other tools
 
