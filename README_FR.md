@@ -121,7 +121,9 @@ Livraison possible :
 
 [Voir le système](https://palks-studio.com/fr/collecte-de-donnees)
 
-### Autres systèmes backend sur mesure
+---
+
+## Autres systèmes backend sur mesure
 
 - outils internes et workflows métier  
 - automatisation de traitements et tâches récurrentes  
@@ -132,7 +134,7 @@ Livraison possible :
 - interfaces internes et traitements batch  
 - déploiement serveur autonome sans SaaS
 
-#### Automation Finance
+### Automation Finance
 
 Système de facturation batch PDF :
 
