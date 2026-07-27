@@ -146,7 +146,9 @@ Utilisé pour automatiser des volumes de facturation récurrents.
 
 [Voir le dépôt](https://github.com/Palks-Studio/automation-system)
 
-#### Outils complémentaires
+---
+
+## Outils complémentaires
 
 **Moteur d’acquittement PDF**  
 Outil permettant de traiter des factures en lot, intégré dans les workflows Automation Finance.
@@ -158,8 +160,6 @@ Outil permettant de traiter des factures en lot, intégré dans les workflows Au
 
 [Voir le dépôt](https://github.com/Palks-Studio/invoice-stamper)
 
----
-
 ### Autres outils
 
 - générateur de devis (100 % navigateur)  
@@ -170,8 +170,6 @@ Outil permettant de traiter des factures en lot, intégré dans les workflows Au
 - configurations de développement
 
 [Voir les ressources](https://palks-studio.com/fr/ressources)
-
----
 
 Chaque déploiement comprend :  
 
