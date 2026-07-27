@@ -4,10 +4,13 @@
 
 > 🇫🇷 Français | [🇬🇧 English](./README.md)
 
-![Automation](https://img.shields.io/badge/Automation-0095b1?style=flat)
-![Static-first](https://img.shields.io/badge/Static--first-2c3e50?style=flat)
-![Minimal dependencies](https://img.shields.io/badge/Minimal%20dependencies-27ae60?style=flat)
-![Deterministic systems](https://img.shields.io/badge/Deterministic%20systems-8e44ad?style=flat)
+![Backend](https://img.shields.io/badge/Backend-Architecture-0A66C2?style=flat)
+![API](https://img.shields.io/badge/API-Integration-0095b1?style=flat)
+![Electronic Invoicing](https://img.shields.io/badge/Electronic-Invoicing-27ae60?style=flat)
+![Factur-X](https://img.shields.io/badge/Factur--X-EN16931-orange?style=flat)
+![PHP](https://img.shields.io/badge/PHP-8A2BE2?style=flat)
+![Remote](https://img.shields.io/badge/Remote-Worldwide-success?style=flat)
+![FR / EN](https://img.shields.io/badge/Languages-FR%20%7C%20EN-blue?style=flat)
 [![Malt](https://img.shields.io/badge/Malt-Profile-FF4F8B?style=flat)](https://www.malt.fr/profile/anthonyleignel)
 [![YouTube](https://img.shields.io/badge/YouTube-@Palks__Studio-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Palks_Studio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@Palks__Studio-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palks-studio/)
@@ -36,6 +39,27 @@ Conception de systèmes techniques autonomes, maintenables et adaptés à des us
 Éditeur / intégrateur indépendant spécialisé dans les systèmes backend autonomes et la facturation électronique.
 
 Je développe des outils techniques conçus pour fonctionner durablement en production, avec une approche centrée sur la simplicité, la stabilité, la maintenabilité et le contrôle des données.
+
+---
+
+## Expertise
+
+- Architecture backend  
+- Développement et intégration d'API  
+- Facturation électronique (Factur-X / EN16931)  
+- Développement de systèmes métiers  
+- Automatisation des processus métiers  
+- Intégration Stripe & Webhooks  
+- Génération documentaire (PDF, Factur-X)  
+- Sécurité applicative
+
+### Technologies
+
+PHP • Python • JavaScript
+
+### Collaboration
+
+🌍 Travail à distance • 🇫🇷 Français • 🇬🇧 English
 
 ---
 
