@@ -4,10 +4,13 @@
 
 > 🇬🇧 English | [🇫🇷 Français](./README_FR.md)
 
-![Automation](https://img.shields.io/badge/Automation-0095b1?style=flat)
-![Static-first](https://img.shields.io/badge/Static--first-2c3e50?style=flat)
-![Minimal dependencies](https://img.shields.io/badge/Minimal%20dependencies-27ae60?style=flat)
-![Deterministic systems](https://img.shields.io/badge/Deterministic%20systems-8e44ad?style=flat)
+![Backend](https://img.shields.io/badge/Backend-Architecture-0A66C2?style=flat)
+![API](https://img.shields.io/badge/API-Integration-0095b1?style=flat)
+![Electronic Invoicing](https://img.shields.io/badge/Electronic-Invoicing-27ae60?style=flat)
+![Factur-X](https://img.shields.io/badge/Factur--X-EN16931-orange?style=flat)
+![PHP](https://img.shields.io/badge/PHP-8A2BE2?style=flat)
+![Remote](https://img.shields.io/badge/Remote-Worldwide-success?style=flat)
+![FR / EN](https://img.shields.io/badge/Languages-FR%20%7C%20EN-blue?style=flat)
 [![Malt](https://img.shields.io/badge/Malt-Profile-FF4F8B?style=flat)](https://www.malt.fr/profile/anthonyleignel)
 [![YouTube](https://img.shields.io/badge/YouTube-@Palks__Studio-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Palks_Studio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@Palks__Studio-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palks-studio/)
@@ -36,6 +39,27 @@ Design and deployment of autonomous technical systems built for real-world usage
 Independent software publisher / integrator specialized in autonomous backend systems and electronic invoicing.
 
 I build technical tools designed to run reliably in production environments, with a strong focus on simplicity, stability, maintainability, and data control.
+
+---
+
+## Core Expertise
+
+- Backend Architecture  
+- API Development & Integration  
+- Electronic Invoicing (Factur-X / EN16931)  
+- Business Systems Development  
+- Workflow Automation  
+- Stripe & Webhooks  
+- Document Generation (PDF, Factur-X)  
+- Application Security
+
+### Technologies
+
+PHP • Python • JavaScript
+
+### Working
+
+🌍 Remote • 🇫🇷 French • 🇬🇧 English
 
 ---
 
