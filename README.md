@@ -26,32 +26,32 @@
 > This repository is a presentation.  
 > It does not contain downloadable source code or production files.
 
-## Autonomous backend systems
+## Autonomous Business Systems
 
-Electronic invoicing, automation, internal tools, and lightweight infrastructures deployed directly on the client’s server, without SaaS or external dependencies.
+Design and development of backend systems, business applications and workflow automation tailored to real-world business needs.
 
-Design and deployment of autonomous technical systems built for real-world usage: document processing, business workflows, PDF generation, structured archiving, and backend automation.
+Palks Studio helps businesses simplify existing environments by developing new tools, connecting applications through APIs, automating repetitive processes or improving existing backend systems, while keeping architectures maintainable and dependencies under control.
 
 ---
 
 ## About
 
-Independent software publisher / integrator specialized in autonomous backend systems and electronic invoicing.
+Palks Studio is an independent development studio focused on backend systems, business software and technical automation.
 
-I build technical tools designed to run reliably in production environments, with a strong focus on simplicity, stability, maintainability, and data control.
+Each project is designed around the same principles: simplicity, maintainability, long-term reliability and full control over data and infrastructure.
 
 ---
 
 ## Core Expertise
 
-- Backend Architecture  
-- API Development & Integration  
-- Electronic Invoicing (Factur-X / EN16931)  
-- Business Systems Development  
+- Backend Systems Development  
+- Business Applications  
+- API Design & Integration  
 - Workflow Automation  
-- Stripe & Webhooks  
+- Electronic Invoicing (Factur-X / EN16931)  
 - Document Generation (PDF, Factur-X)  
-- Application Security
+- Stripe Checkout & Webhooks  
+- Application & Server Security
 
 ### Technologies
 
@@ -63,9 +63,9 @@ PHP • Python • JavaScript
 
 ---
 
-## What I deploy
+## Examples of deployed systems
 
-I develop autonomous technical systems used in real-world environments: autonomous backend systems, autonomous electronic invoicing systems, automation, and internal tools.
+The following systems illustrate the type of backend applications, business software and automation solutions developed by Palks Studio. Each one addresses a specific business need while following the same principles: maintainability, simplicity and controlled dependencies.
 
 ### Billing System
 
@@ -79,7 +79,7 @@ Complete electronic invoicing system deployed directly on the client’s infrast
 - automatic email sending  
 - bilingual FR / EN interface
 
-Designed to replace invoicing SaaS platforms while keeping full control over data and infrastructure.
+Designed as an autonomous alternative for businesses looking to simplify electronic invoicing while maintaining full control over their data and infrastructure.
 
 [View the System](https://palks-studio.com/en/invoicing-without-saas)
 
@@ -95,7 +95,7 @@ Autonomous recruitment system with automatic scoring, deployed directly on the c
 - automatic emails (confirmation + closure)  
 - bilingual interface FR / EN
 
-Designed to replace manual candidate sorting while retaining full control over criteria, data and infrastructure.
+Designed to streamline recruitment workflows while keeping full control over evaluation criteria, candidate data and infrastructure.
 
 [View the System](https://palks-studio.com/en/recruitment-without-saas)
 
@@ -110,9 +110,9 @@ Autonomous data collection system designed to run locally or on dedicated infras
 - contacted prospect tracking  
 - CSV and JSON exports  
 - integrated web interface  
-- local-first architecture without SaaS or paid APIs
+- local-first architecture with limited external dependencies
 
-Designed to collect, process and export structured business data while maintaining full control over both infrastructure and collected information.
+Designed to collect, organize and export structured business data while maintaining full control over infrastructure and collected information.
 
 Available delivery options:
 
@@ -132,7 +132,7 @@ Available delivery options:
 - Stripe integration and secure processing  
 - database-free backend systems  
 - internal interfaces and batch processing  
-- autonomous server deployment without SaaS
+- deployment on client-owned infrastructure
 
 ### Automation Finance
 
@@ -193,23 +193,24 @@ Objective: a stable, autonomous and maintainable system.
 - freelancers and independent professionals  
 - artisans and small businesses  
 - SMEs and operational teams  
-- businesses looking for autonomous systems without SaaS  
+- businesses looking for autonomous systems with fewer dependencies  
 - technical projects requiring simple, reliable, and maintainable tools
 
 ---
 
 ## Approach
 
-- autonomous systems, no SaaS  
-- minimal dependencies  
-- readable architecture  
-- predictable behavior  
-- long-term maintainability  
+- business-driven architectures  
+- controlled dependencies  
+- simplicity before complexity  
+- predictable and maintainable systems  
+- long-term reliability  
+- full control over data and infrastructure
 
-The tools presented here prioritize clarity, stability and autonomy.  
-The goal is not to add complexity, but to remove it.
+Every system presented here follows the same philosophy: build software that remains understandable, maintainable and reliable over time.
 
-Systems favor local execution whenever possible  
-to reduce external dependencies and ensure portability.
+The objective is not to add complexity, but to remove unnecessary layers whenever possible.
+
+Whenever appropriate, systems are designed to run directly on the client's infrastructure, reducing external dependencies while preserving portability and long-term control.
 
 - https://palks-studio.com
