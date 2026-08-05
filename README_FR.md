@@ -26,32 +26,32 @@
 > Ce dépôt constitue une présentation.  
 > Il ne contient pas de code source téléchargeable ni de fichiers de production.
 
-## Systèmes backend autonomes
+## Systèmes métier autonomes
 
-Facturation électronique, automatisation, outils internes et infrastructures légères déployés directement chez le client, sans SaaS ni dépendances externes.
+Conception et développement de systèmes backend, d'applications métier et d'automatisations adaptés à des besoins concrets.
 
-Conception de systèmes techniques autonomes, maintenables et adaptés à des usages réels : traitement documentaire, workflows métier, génération PDF, archivage structuré et automatisations backend.
+Palks Studio accompagne les entreprises dans la création de nouveaux outils, l'intégration d'API, l'automatisation de processus métier et l'évolution de systèmes backend existants, avec une approche privilégiant des architectures maintenables et des dépendances maîtrisées.
 
 ---
 
 ## À propos
 
-Éditeur / intégrateur indépendant spécialisé dans les systèmes backend autonomes et la facturation électronique.
+Palks Studio est un studio indépendant spécialisé dans le développement de systèmes backend, de logiciels métier et d'automatisations techniques.
 
-Je développe des outils techniques conçus pour fonctionner durablement en production, avec une approche centrée sur la simplicité, la stabilité, la maintenabilité et le contrôle des données.
+Chaque projet est conçu selon les mêmes principes : simplicité, maintenabilité, fiabilité sur le long terme et maîtrise des données ainsi que de l'infrastructure.
 
 ---
 
-## Expertise
+## Domaines d'expertise
 
-- Architecture backend  
-- Développement et intégration d'API  
+- Développement de systèmes backend  
+- Applications métier  
+- Conception et intégration d'API  
+- Automatisation de workflows  
 - Facturation électronique (Factur-X / EN16931)  
-- Développement de systèmes métiers  
-- Automatisation des processus métiers  
-- Intégration Stripe & Webhooks  
 - Génération documentaire (PDF, Factur-X)  
-- Sécurité applicative
+- Stripe Checkout & Webhooks  
+- Sécurité applicative et serveur
 
 ### Technologies
 
@@ -59,11 +59,11 @@ PHP • Python • JavaScript
 
 ### Collaboration
 
-🌍 Travail à distance • 🇫🇷 Français • 🇬🇧 English
+🌍 Remote • 🇫🇷 Français • 🇬🇧 English
 
 ---
 
-## Ce que je déploie
+## Exemples de systèmes déployés
 
 Je développe des systèmes techniques autonomes utilisés dans des contextes réels : systèmes backend autonomes, systèmes de facturation électroniques autonomes, automatisation et outils internes.
 
@@ -74,12 +74,12 @@ Système de facturation électronique complet, déployé directement sur l’inf
 - devis → signature → facture → acquittement  
 - génération de factures conformes Factur-X / EN16931  
 - génération PDF (client + serveur)  
-- archivage structuré sans base de données  
+- archivage structuré  
 - numérotation sécurisée et traçabilité  
 - envoi automatique des emails  
 - interface bilingue FR / EN
 
-Conçu pour remplacer un SaaS de facturation tout en conservant un contrôle total sur les données et l’infrastructure.
+Conçu pour proposer une alternative autonome lorsque cette approche est la plus adaptée, tout en conservant un contrôle total sur les données et l'infrastructure.
 
 [Voir le système](https://palks-studio.com/fr/facturation-sans-saas)
 
@@ -110,7 +110,7 @@ Système de collecte de données autonome fonctionnant localement ou sur infrast
 - suivi des prospects déjà contactés  
 - exports CSV et JSON  
 - interface web intégrée  
-- fonctionnement local sans SaaS ni API payante
+- fonctionnement local avec dépendances externes limitées
 
 Conçu pour centraliser et exploiter des données structurées tout en conservant un contrôle total sur l'infrastructure et les données collectées.
 
@@ -132,7 +132,7 @@ Livraison possible :
 - intégration Stripe et traitements sécurisés  
 - systèmes backend sans base de données  
 - interfaces internes et traitements batch  
-- déploiement serveur autonome sans SaaS
+- déploiement autonome sur l'infrastructure du client
 
 ### Automation Finance
 
@@ -192,23 +192,23 @@ Objectif : un système autonome, stable et maintenable dans le temps.
 - freelances et indépendants  
 - artisans et petites structures  
 - PME et équipes métier  
-- entreprises souhaitant des systèmes autonomes sans SaaS  
+- entreprises souhaitant reprendre le contrôle de leurs systèmes métier  
 - projets techniques nécessitant des outils simples, fiables et maintenables
 
 ---
 
 ## Approche
 
-- systèmes autonomes, sans SaaS  
-- dépendances minimales  
-- architecture lisible  
-- fonctionnement prévisible  
-- maintenance long terme
+- architectures adaptées au besoin  
+- dépendances maîtrisées  
+- simplicité avant complexité  
+- systèmes maintenables  
+- maîtrise des données et de l'infrastructure
 
-Les outils publiés ici privilégient la clarté, la stabilité et l’autonomie.  
-L’objectif n’est pas d’ajouter de la complexité, mais d’en retirer.
+Chaque système présenté ici repose sur les mêmes principes : simplicité, maintenabilité, fiabilité et maîtrise des dépendances.
 
-Les systèmes privilégient l'exécution locale lorsque cela est possible  
-afin de réduire les dépendances externes et garantir la portabilité.
+L'objectif n'est pas d'ajouter de la complexité, mais de construire des solutions adaptées, durables et faciles à faire évoluer.
+
+Lorsque cela est pertinent, les systèmes sont conçus pour fonctionner directement sur l'infrastructure du client afin de limiter les dépendances externes tout en conservant la maîtrise des données et de l'environnement.
 
 - https://palks-studio.com
