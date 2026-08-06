@@ -214,3 +214,4 @@ The objective is not to add complexity, but to remove unnecessary layers wheneve
 Whenever appropriate, systems are designed to run directly on the client's infrastructure, reducing external dependencies while preserving portability and long-term control.
 
 - https://palks-studio.com
+Documentation update.
