@@ -42,15 +42,15 @@ Chaque projet est conçu selon les mêmes principes : simplicité, maintenabilit
 
 ---
 
-## Domaines d'expertise
+## Expertise principale
 
 - Développement de systèmes backend  
 - Applications métier  
-- Conception et intégration d'API  
+- Conception et intégration d’API  
 - Automatisation de workflows  
 - Facturation électronique (Factur-X / EN16931)  
-- Génération documentaire (PDF, Factur-X)  
-- Stripe Checkout & Webhooks  
+- Génération de documents (PDF, Factur-X)  
+- Intégration de paiements et gestion des événements  
 - Sécurité applicative et serveur
 
 ### Technologies
@@ -129,7 +129,7 @@ Livraison possible :
 - automatisation de traitements et tâches récurrentes  
 - génération et traitement de documents PDF  
 - systèmes documentaires et archivage structuré  
-- intégration Stripe et traitements sécurisés  
+- intégration de paiements et traitements sécurisés  
 - systèmes backend sans base de données  
 - interfaces internes et traitements batch  
 - déploiement autonome sur l'infrastructure du client
