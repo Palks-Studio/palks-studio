@@ -50,7 +50,7 @@ Each project is designed around the same principles: simplicity, maintainability
 - Workflow Automation  
 - Electronic Invoicing (Factur-X / EN16931)  
 - Document Generation (PDF, Factur-X)  
-- Stripe Checkout & Webhooks  
+- Payment Integration & Event Handling  
 - Application & Server Security
 
 ### Technologies
@@ -129,7 +129,7 @@ Available delivery options:
 - automation of recurring tasks and processing  
 - PDF generation and document processing  
 - document systems and structured archiving  
-- Stripe integration and secure processing  
+- payment system integration and secure processing  
 - database-free backend systems  
 - internal interfaces and batch processing  
 - deployment on client-owned infrastructure
