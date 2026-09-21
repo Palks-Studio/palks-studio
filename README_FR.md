@@ -7,6 +7,7 @@
 ![Backend](https://img.shields.io/badge/Backend-Architecture-0A66C2?style=flat)
 ![API](https://img.shields.io/badge/API-Integration-0095b1?style=flat)
 ![Electronic Invoicing](https://img.shields.io/badge/Electronic-Invoicing-27ae60?style=flat)
+![Automation](https://img.shields.io/badge/Automation-Workflows-27ae60?style=flat)
 ![Factur-X](https://img.shields.io/badge/Factur--X-EN16931-orange?style=flat)
 ![PHP](https://img.shields.io/badge/PHP-8A2BE2?style=flat)
 ![Remote](https://img.shields.io/badge/Remote-Worldwide-success?style=flat)
@@ -14,6 +15,8 @@
 [![Malt](https://img.shields.io/badge/Malt-Profile-FF4F8B?style=flat)](https://www.malt.fr/profile/anthonyleignel)
 [![YouTube](https://img.shields.io/badge/YouTube-@Palks__Studio-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Palks_Studio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@Palks__Studio-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palks-studio/)
+[![La Mécanique du Pouvoir](https://img.shields.io/badge/🇫🇷_La_Mécanique_du_Pouvoir-Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.fr/dp/B0HJGF73NY)
+[![The Mechanics of Power](https://img.shields.io/badge/🇬🇧_The_Mechanics_of_Power-Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.fr/dp/B0HJP46J74)
 
 <p align="center">
   <a href="https://palks-studio.com">
@@ -26,7 +29,7 @@
 > Ce dépôt constitue une présentation.  
 > Il ne contient pas de code source téléchargeable ni de fichiers de production.
 
-## Systèmes métier autonomes
+## Développement backend et systèmes métier
 
 Conception et développement de systèmes backend, d'applications métier et d'automatisations adaptés à des besoins concrets.
 
@@ -63,9 +66,9 @@ PHP • Python • JavaScript
 
 ---
 
-## Exemples de systèmes déployés
+## Exemples de réalisations
 
-Je développe des systèmes techniques autonomes utilisés dans des contextes réels : systèmes backend autonomes, systèmes de facturation électroniques autonomes, automatisation et outils internes.
+Les projets présentés ci-dessous illustrent différents systèmes conçus et développés par Palks Studio : outils métier, systèmes backend, automatisations, traitement de données et facturation électronique.
 
 ### Billing System
 
@@ -79,9 +82,7 @@ Système de facturation électronique complet, déployé directement sur l’inf
 - envoi automatique des emails  
 - interface bilingue FR / EN
 
-Conçu pour proposer une alternative autonome lorsque cette approche est la plus adaptée, tout en conservant un contrôle total sur les données et l'infrastructure.
-
-[Voir le système](https://palks-studio.com/fr/facturation-sans-saas)
+Cette réalisation illustre la conception d'un système métier complet, reliant logique commerciale, génération documentaire, automatisation, traçabilité et gestion des données au sein d'une architecture autonome.
 
 ### Candidate System
 
@@ -173,17 +174,27 @@ Outil permettant de traiter des factures en lot, intégré dans les workflows Au
 
 [Voir les ressources](https://palks-studio.com/fr/ressources)
 
-Chaque déploiement comprend :  
+Ces projets illustrent différentes approches mises en œuvre par Palks Studio : développement backend, automatisation, traitement de données, génération documentaire, sécurité, intégration et déploiement.
 
-- installation sur serveur (mutualisé ou VPS)  
-- configuration complète (emails, chemins, identité)  
-- adaptation aux données existantes  
-- tests et validation  
-- documentation utilisateur
-
-Objectif : un système autonome, stable et maintenable dans le temps.
+Les systèmes présentés constituent des réalisations techniques et ne correspondent pas nécessairement aux services actuellement proposés par le studio.
 
 [![Contact](https://img.shields.io/badge/Contact-0095b1?style=flat)](https://palks-studio.com/fr/contact)
+
+---
+
+## Publication
+
+En parallèle de mon activité de développeur, je mène également des travaux de recherche, de documentation et d'écriture.
+
+Mon premier livre est publié sous le nom de plume **Anthony Harlow** et disponible en français et en anglais.
+
+### La Mécanique du Pouvoir / The Mechanics of Power
+
+🇫🇷 **La Mécanique du Pouvoir**  
+[Voir sur Amazon](https://www.amazon.fr/dp/B0HJGF73NY)
+
+🇬🇧 **The Mechanics of Power**  
+[View on Amazon](https://www.amazon.fr/dp/B0HJP46J74)
 
 ---
 
