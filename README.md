@@ -7,6 +7,7 @@
 ![Backend](https://img.shields.io/badge/Backend-Architecture-0A66C2?style=flat)
 ![API](https://img.shields.io/badge/API-Integration-0095b1?style=flat)
 ![Electronic Invoicing](https://img.shields.io/badge/Electronic-Invoicing-27ae60?style=flat)
+![Automation](https://img.shields.io/badge/Automation-Workflows-27ae60?style=flat)
 ![Factur-X](https://img.shields.io/badge/Factur--X-EN16931-orange?style=flat)
 ![PHP](https://img.shields.io/badge/PHP-8A2BE2?style=flat)
 ![Remote](https://img.shields.io/badge/Remote-Worldwide-success?style=flat)
@@ -14,6 +15,8 @@
 [![Malt](https://img.shields.io/badge/Malt-Profile-FF4F8B?style=flat)](https://www.malt.fr/profile/anthonyleignel)
 [![YouTube](https://img.shields.io/badge/YouTube-@Palks__Studio-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Palks_Studio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@Palks__Studio-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palks-studio/)
+[![La Mécanique du Pouvoir](https://img.shields.io/badge/🇫🇷_La_Mécanique_du_Pouvoir-Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.fr/dp/B0HJGF73NY)
+[![The Mechanics of Power](https://img.shields.io/badge/🇬🇧_The_Mechanics_of_Power-Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.fr/dp/B0HJP46J74)
 
 <p align="center">
   <a href="https://palks-studio.com">
@@ -26,7 +29,7 @@
 > This repository is a presentation.  
 > It does not contain downloadable source code or production files.
 
-## Autonomous Business Systems
+## Backend Development and Business Systems
 
 Design and development of backend systems, business applications and workflow automation tailored to real-world business needs.
 
@@ -63,9 +66,9 @@ PHP • Python • JavaScript
 
 ---
 
-## Examples of deployed systems
+## Examples of Projects
 
-The following systems illustrate the type of backend applications, business software and automation solutions developed by Palks Studio. Each one addresses a specific business need while following the same principles: maintainability, simplicity and controlled dependencies.
+The projects below illustrate different systems designed and developed by Palks Studio: business tools, backend systems, automation, data processing and electronic invoicing.
 
 ### Billing System
 
@@ -79,9 +82,7 @@ Complete electronic invoicing system deployed directly on the client’s infrast
 - automatic email sending  
 - bilingual FR / EN interface
 
-Designed as an autonomous alternative for businesses looking to simplify electronic invoicing while maintaining full control over their data and infrastructure.
-
-[View the System](https://palks-studio.com/en/invoicing-without-saas)
+This project illustrates the design of a complete business system combining business logic, document generation, automation, traceability and data management within an autonomous architecture.
 
 ### Candidate System
 
@@ -174,17 +175,27 @@ Tool for processing invoices in batch, integrated into Automation Finance workfl
 
 [View the Resources](https://palks-studio.com/en/resources)
 
-Each deployment includes:  
+These projects illustrate different approaches implemented by Palks Studio: backend development, automation, data processing, document generation, security, integration and deployment.
 
-- server installation (shared hosting or VPS)  
-- full configuration (emails, paths, identity)  
-- adaptation to existing data  
-- testing and validation  
-- user documentation
-
-Objective: a stable, autonomous and maintainable system.
+The systems presented here are technical projects and do not necessarily represent services currently offered by the studio.
 
 [![Contact](https://img.shields.io/badge/Contact-0095b1?style=flat)](https://palks-studio.com/en/contact)
+
+---
+
+## Publication
+
+Alongside my work as a developer, I also pursue research, documentation and writing projects.
+
+My first book is published under the pen name **Anthony Harlow** and is available in both French and English.
+
+### La Mécanique du Pouvoir / The Mechanics of Power
+
+🇫🇷 **La Mécanique du Pouvoir**  
+[View on Amazon](https://www.amazon.fr/dp/B0HJGF73NY)
+
+🇬🇧 **The Mechanics of Power**  
+[View on Amazon](https://www.amazon.fr/dp/B0HJP46J74)
 
 ---
 
