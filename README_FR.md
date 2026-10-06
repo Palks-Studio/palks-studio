@@ -171,6 +171,7 @@ Outil permettant de traiter des factures en lot, intégré dans les workflows Au
 - chatbots locaux (Flask)  
 - frameworks de documentation  
 - configurations de développement
+- outil d’analyse statique et de cartographie technique de projets logiciels
 
 [Voir les ressources](https://palks-studio.com/fr/ressources)
 
