@@ -172,6 +172,7 @@ Tool for processing invoices in batch, integrated into Automation Finance workfl
 - local chatbots (Flask)  
 - documentation frameworks  
 - development environment configurations
+- static analysis and technical mapping tool for software projects
 
 [View the Resources](https://palks-studio.com/en/resources)
 
