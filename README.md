@@ -171,7 +171,7 @@ Tool for processing invoices in batch, integrated into Automation Finance workfl
 - static website foundations (HTML/CSS)  
 - local chatbots (Flask)  
 - documentation frameworks  
-- development environment configurations
+- development environment configurations  
 - static analysis and technical mapping tool for software projects
 
 [View the Resources](https://palks-studio.com/en/resources)
@@ -184,18 +184,33 @@ The systems presented here are technical projects and do not necessarily represe
 
 ---
 
-## Publication
+## Research, Analysis & Publications
 
-Alongside my work as a developer, I also pursue research, documentation and writing projects.
+Palks Studio also conducts independent research, analysis and publishing activities in both French and English.
 
-My first book is published under the pen name **Anthony Harlow** and is available in both French and English.
+This work focuses on critical infrastructure, cybersecurity, energy, technology, and economic and geopolitical developments.
 
-### La Mécanique du Pouvoir / The Mechanics of Power
+It includes:
 
-🇫🇷 **La Mécanique du Pouvoir**  
+- Research reports and documented analyses  
+- In-depth coverage and ongoing monitoring of current events  
+- Public data monitoring and visualization tools  
+- Editorial publications and books
+
+### Research Reports & Monitoring Tools
+
+[Explore the research reports](https://palks-studio.com/en/content#research)
+
+[Explore the public data dashboards](https://palks-studio.com/en/public-data)
+
+### Books
+
+My first book, published under the pen name **Anthony Harlow**, is available in French and English.
+
+**🇫🇷 La Mécanique du Pouvoir**  
 [View on Amazon](https://www.amazon.fr/dp/B0HJGF73NY)
 
-🇬🇧 **The Mechanics of Power**  
+**🇬🇧 The Mechanics of Power**  
 [View on Amazon](https://www.amazon.fr/dp/B0HJP46J74)
 
 ---
