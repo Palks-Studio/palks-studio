@@ -170,7 +170,7 @@ Outil permettant de traiter des factures en lot, intégré dans les workflows Au
 - socles de sites statiques HTML/CSS  
 - chatbots locaux (Flask)  
 - frameworks de documentation  
-- configurations de développement
+- configurations de développement  
 - outil d’analyse statique et de cartographie technique de projets logiciels
 
 [Voir les ressources](https://palks-studio.com/fr/ressources)
@@ -183,18 +183,33 @@ Les systèmes présentés constituent des réalisations techniques et ne corresp
 
 ---
 
-## Publication
+## Recherche, analyse et publications
 
-En parallèle de mon activité de développeur, je mène également des travaux de recherche, de documentation et d'écriture.
+Palks Studio développe également une activité de recherche, d'analyse et de publication, en français et en anglais.
 
-Mon premier livre est publié sous le nom de plume **Anthony Harlow** et disponible en français et en anglais.
+Ces travaux portent notamment sur les infrastructures critiques, la cybersécurité, l'énergie, les technologies et les évolutions économiques et géopolitiques.
 
-### La Mécanique du Pouvoir / The Mechanics of Power
+Ils prennent plusieurs formes :
 
-🇫🇷 **La Mécanique du Pouvoir**  
+- Rapports de recherche et analyses documentées  
+- Dossiers d'actualité et suivi des événements  
+- Outils de veille et de visualisation de données publiques  
+- Publications éditoriales et ouvrages
+
+### Rapports et outils de veille
+
+[Consulter les rapports](https://palks-studio.com/fr/contenu#recherches)
+
+[Explorer les radars de données publiques](https://palks-studio.com/fr/donnees-publiques)
+
+### Publications littéraires
+
+Mon premier ouvrage, publié sous le nom de plume **Anthony Harlow**, est disponible en français et en anglais.
+
+**🇫🇷 La Mécanique du Pouvoir**  
 [Voir sur Amazon](https://www.amazon.fr/dp/B0HJGF73NY)
 
-🇬🇧 **The Mechanics of Power**  
+**🇬🇧 The Mechanics of Power**  
 [View on Amazon](https://www.amazon.fr/dp/B0HJP46J74)
 
 ---
