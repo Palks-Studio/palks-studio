@@ -29,7 +29,7 @@
 > This repository is a presentation.  
 > It does not contain downloadable source code or production files.
 
-## Backend Development and Business Systems
+## Backend Development, Business Systems & Data Analysis
 
 Design and development of backend systems, business applications and workflow automation tailored to real-world business needs.
 
@@ -39,9 +39,7 @@ Palks Studio helps businesses simplify existing environments by developing new t
 
 ## About
 
-Palks Studio is an independent development studio focused on backend systems, business software and technical automation.
-
-Each project is designed around the same principles: simplicity, maintainability, long-term reliability and full control over data and infrastructure.
+Palks Studio is an independent studio specializing in backend development, business systems, automation, and data processing. The studio also conducts data analysis, documentary research, and technical writing.
 
 ---
 
@@ -54,7 +52,10 @@ Each project is designed around the same principles: simplicity, maintainability
 - Electronic Invoicing (Factur-X / EN16931)  
 - Document Generation (PDF, Factur-X)  
 - Payment Integration & Event Handling  
-- Application & Server Security
+- Application & Server Security  
+- Data collection, processing, and analysis  
+- Data visualization and dashboards  
+- Public data monitoring dashboards: https://palks-studio.com/en/public-data
 
 ### Technologies
 
@@ -205,7 +206,7 @@ It includes:
 
 ### Books
 
-My first book, published under the pen name **Anthony Harlow**, is available in French and English.
+The first book published under the pen name **Anthony Harlow**, is available in French and English.
 
 **🇫🇷 La Mécanique du Pouvoir**  
 [View on Amazon](https://www.amazon.fr/dp/B0HJGF73NY)
