@@ -29,7 +29,7 @@
 > Ce dépôt constitue une présentation.  
 > Il ne contient pas de code source téléchargeable ni de fichiers de production.
 
-## Développement backend et systèmes métier
+## Développement backend, systèmes métier et analyse de données
 
 Conception et développement de systèmes backend, d'applications métier et d'automatisations adaptés à des besoins concrets.
 
@@ -39,9 +39,7 @@ Palks Studio accompagne les entreprises dans la création de nouveaux outils, l'
 
 ## À propos
 
-Palks Studio est un studio indépendant spécialisé dans le développement de systèmes backend, de logiciels métier et d'automatisations techniques.
-
-Chaque projet est conçu selon les mêmes principes : simplicité, maintenabilité, fiabilité sur le long terme et maîtrise des données ainsi que de l'infrastructure.
+Palks Studio est un studio indépendant spécialisé dans le développement backend, les systèmes métier, l'automatisation et le traitement de données. Le studio réalise également des travaux d'analyse, de recherche documentaire et de rédaction technique.
 
 ---
 
@@ -54,7 +52,10 @@ Chaque projet est conçu selon les mêmes principes : simplicité, maintenabilit
 - Facturation électronique (Factur-X / EN16931)  
 - Génération de documents (PDF, Factur-X)  
 - Intégration de paiements et gestion des événements  
-- Sécurité applicative et serveur
+- Sécurité applicative et serveur  
+- Collecte, traitement et analyse de données  
+- Visualisation de données et tableaux de bord  
+- Radars de données publiques : https://palks-studio.com/fr/donnees-publiques
 
 ### Technologies
 
@@ -204,7 +205,7 @@ Ils prennent plusieurs formes :
 
 ### Publications littéraires
 
-Mon premier ouvrage, publié sous le nom de plume **Anthony Harlow**, est disponible en français et en anglais.
+Premier ouvrage publié sous le nom de plume **Anthony Harlow**, est disponible en français et en anglais.
 
 **🇫🇷 La Mécanique du Pouvoir**  
 [Voir sur Amazon](https://www.amazon.fr/dp/B0HJGF73NY)
